@@ -1,0 +1,7 @@
+<!-- Colored derivative of pixelarticons/alien.svg (v2.4.2, MIT (c) Gerrit Halfmann) -->
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" shape-rendering="crispEdges">
+  <path fill="#3ddc84" d="M6 4h12v2H6zM4 6h16v8H4zm2 8h12v2H6zm2 2h8v2H8zm2 2h4v2h-4z"/>
+  <path fill="#0b6b3a" d="M6 2h12v2H6zM4 4h2v2H4zm14 0h2v2h-2zM2 6h2v8H2zm18 0h2v8h-2zM4 14h2v2H4zm14 0h2v2h-2zM6 16h2v2H6zm10 0h2v2h-2zm-8 2h2v2H8zm6 0h2v2h-2zm-4 2h4v2h-4z"/>
+  <path fill="#073042" d="M6 8h4v2H6zm8 0h4v2h-4zm-8 2h5v2H6zm7 0h5v2h-5zm-5 2h3v1H8zm5 0h3v1h-3z"/>
+  <path fill="#0b6b3a" d="M11 15h2v2h-2z"/>
+</svg>

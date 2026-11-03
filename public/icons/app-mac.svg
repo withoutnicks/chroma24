@@ -1,0 +1,7 @@
+<!-- Colored derivative of pixelarticons/app-mac.svg (v2.4.2, MIT (c) Gerrit Halfmann) -->
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" shape-rendering="crispEdges">
+  <path fill="#ff4b4b" d="M6 7h2v2H6z"/>
+  <path fill="#ffb703" d="M10 7h2v2h-2z"/>
+  <path fill="#2ec4b6" d="M14 7h2v2h-2z"/>
+  <path fill="#ffffff" d="M4 3h16v2H4zM2 5h2v14H2zM20 5h2v14h-2zM4 19h16v2H4z"/>
+</svg>

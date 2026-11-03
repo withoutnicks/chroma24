@@ -1,0 +1,8 @@
+<!-- Colored derivative of pixelarticons/users.svg (v2.4.2, MIT (c) Gerrit Halfmann) -->
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" shape-rendering="crispEdges">
+  <path fill="#ffe0b2" d="M5 4h6v6H5zM15 4h4v6h-4z"/>
+  <path fill="#5b371f" d="M5 2h6v2H5zM3 4h2v6H3zM11 4h2v6h-2zM5 10h6v2H5zM15 2h4v2h-4zM13 4h2v6h-2zM19 4h2v6h-2zM15 10h4v2h-4z"/>
+  <path fill="#7aa6ff" d="M4 16h8v2H4zM2 18h12v4H2z"/>
+  <path fill="#2ec4b6" d="M16 16h4v2h-4zM14 18h8v4h-8z"/>
+  <path fill="#1f3a5f" d="M4 14h8v2H4zM2 16h2v2H2zM12 16h2v2h-2zM0 18h2v4H0zM14 22H0v2h14zM16 14h4v2h-4zM14 16h2v2h-2zM20 16h2v2h-2zM22 18h2v6H12v-2h10z"/>
+</svg>

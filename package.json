@@ -1,0 +1,42 @@
+{
+  "name": "pixelarticon-colored",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "oxlint",
+    "preview": "vite preview",
+    "fmt": "oxfmt",
+    "fmt:check": "oxfmt --check"
+  },
+  "dependencies": {
+    "@fontsource-variable/jetbrains-mono": "^5.3.0",
+    "@fontsource/press-start-2p": "^5.3.0",
+    "@pxlkit/core": "^1.4.0",
+    "@pxlkit/feedback": "^1.2.6",
+    "@pxlkit/gamification": "^1.2.5",
+    "@pxlkit/social": "^1.2.5",
+    "@pxlkit/ui": "^1.2.6",
+    "@pxlkit/ui-kit": "^2.2.0",
+    "@tailwindcss/vite": "^4.3.3",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "tailwindcss": "^4.3.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.29.7",
+    "@rolldown/plugin-babel": "^0.2.4",
+    "@types/babel__core": "^7.20.5",
+    "@types/node": "^24.19.2",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "babel-plugin-react-compiler": "^1.0.0",
+    "oxfmt": "^0.75.0",
+    "oxlint": "^1.89.0",
+    "typescript": "~7.0.2",
+    "vite": "^8.3.5"
+  }
+}

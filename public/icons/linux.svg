@@ -1,0 +1,62 @@
+<!-- Colored derivative of pixelarticons/linux.svg (v2.4.2, MIT (c) Gerrit Halfmann) -->
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <!-- Fondo transparente o silueta base -->
+  
+  <!-- Cabeza y Ojos (Sombrero/Cuerpo superior negro) -->
+  <rect fill="#1E1E1E" height="1" width="6" x="9" y="3" />
+  <rect fill="#1E1E1E" height="1" width="8" x="8" y="4" />
+  <rect fill="#1E1E1E" height="1" width="10" x="7" y="5" />
+  <rect fill="#1E1E1E" height="1" width="10" x="7" y="6" />
+  
+  <!-- Ojos (Blancos con pupilas negras) -->
+  <rect fill="#1E1E1E" height="1" width="10" x="7" y="7" />
+  <rect fill="#1E1E1E" height="1" width="3" x="7" y="8" />
+  <rect fill="#FFFFFF" height="1" width="2" x="10" y="8" />
+  <rect fill="#1E1E1E" height="1" width="2" x="12" y="8" />
+  <rect fill="#FFFFFF" height="1" width="2" x="14" y="8" />
+  <rect fill="#1E1E1E" height="1" width="2" x="16" y="8" />
+
+  <rect fill="#1E1E1E" height="1" width="2" x="7" y="9" />
+  <rect fill="#1E1E1E" height="1" width="1" x="9" y="9" />
+  <rect fill="#E58E26" height="1" width="4" x="10" y="9" /> <!-- Pico -->
+  <rect fill="#1E1E1E" height="1" width="1" x="14" y="9" />
+  <rect fill="#1E1E1E" height="1" width="2" x="15" y="9" />
+
+  <!-- Cuerpo y Panza -->
+  <rect fill="#1E1E1E" height="1" width="3" x="6" y="10" />
+  <rect fill="#E58E26" height="1" width="6" x="9" y="10" /> <!-- Pico parte baja -->
+  <rect fill="#1E1E1E" height="1" width="3" x="15" y="10" />
+
+  <rect fill="#1E1E1E" height="1" width="2" x="5" y="11" />
+  <rect fill="#FFFFFF" height="1" width="10" x="7" y="11" /> <!-- Panza blanca -->
+  <rect fill="#1E1E1E" height="1" width="2" x="17" y="11" />
+
+  <rect fill="#1E1E1E" height="1" width="2" x="4" y="12" />
+  <rect fill="#FFFFFF" height="1" width="12" x="6" y="12" />
+  <rect fill="#1E1E1E" height="1" width="2" x="18" y="12" />
+
+  <rect fill="#1E1E1E" height="1" width="2" x="4" y="13" />
+  <rect fill="#FFFFFF" height="1" width="12" x="6" y="13" />
+  <rect fill="#1E1E1E" height="1" width="2" x="18" y="13" />
+
+  <rect fill="#1E1E1E" height="1" width="2" x="4" y="14" />
+  <rect fill="#FFFFFF" height="1" width="12" x="6" y="14" />
+  <rect fill="#1E1E1E" height="1" width="2" x="18" y="14" />
+
+  <rect fill="#1E1E1E" height="1" width="2" x="5" y="15" />
+  <rect fill="#FFFFFF" height="1" width="10" x="7" y="15" />
+  <rect fill="#1E1E1E" height="1" width="2" x="17" y="15" />
+
+  <rect fill="#1E1E1E" height="1" width="3" x="6" y="16" />
+  <rect fill="#FFFFFF" height="1" width="8" x="8" y="16" />
+  <rect fill="#1E1E1E" height="1" width="3" x="15" y="16" />
+
+  <rect fill="#1E1E1E" height="1" width="12" x="6" y="17" />
+
+  <!-- Patitas naranjas -->
+  <rect fill="#E58E26" height="1" width="5" x="5" y="18" />
+  <rect fill="#E58E26" height="1" width="5" x="14" y="18" />
+  
+  <rect fill="#E58E26" height="1" width="6" x="4" y="19" />
+  <rect fill="#E58E26" height="1" width="6" x="14" y="19" />
+</svg>

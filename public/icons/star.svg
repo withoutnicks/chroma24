@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Colored derivative of pixelarticons/star.svg (v2.4.2, MIT (c) Gerrit Halfmann) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   shape-rendering="crispEdges"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="star.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="34.708333"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <path
+     fill="#ffffff"
+     d="M11 1h2v1h-2zM11 2h2v1h-2zM9 3h2v1h-2zM13 3h2v1h-2zM9 4h2v1h-2zM13 4h2v1h-2zM9 5h2v1h-2zM13 5h2v1h-2zM9 6h2v1h-2zM13 6h2v1h-2zM1 7h8v1h-8zM15 7h8v1h-8zM1 8h8v1h-8zM15 8h8v1h-8zM1 9h2v1h-2zM21 9h2v1h-2zM1 10h2v1h-2zM21 10h2v1h-2zM3 11h2v1h-2zM19 11h2v1h-2zM3 12h2v1h-2zM19 12h2v1h-2zM5 13h2v1h-2zM17 13h2v1h-2zM5 14h2v1h-2zM17 14h2v1h-2zM5 15h2v1h-2zM17 15h2v1h-2zM3 16h2v1h-2zM10 16h4v1h-4zM19 16h2v1h-2zM3 17h2v1h-2zM10 17h4v1h-4zM19 17h2v1h-2zM3 18h2v1h-2zM8 18h2v1h-2zM14 18h2v1h-2zM19 18h2v1h-2zM3 19h2v1h-2zM8 19h2v1h-2zM14 19h2v1h-2zM19 19h2v1h-2zM3 20h5v1h-5zM16 20h5v1h-5zM3 21h5v1h-5zM16 21h5v1h-5z"
+     id="path1" />
+  <path
+     fill="#facc15"
+     d="M10 4h1v1h-1zM13 4h1v1h-1zM10 5h1v1h-1zM13 5h1v1h-1zM10 6h1v1h-1zM13 6h1v1h-1zM2 8h7v1h-7zM15 8h7v1h-7zM2 9h1v1h-1zM21 9h1v1h-1zM4 11h1v1h-1zM19 11h1v1h-1zM6 13h1v1h-1zM17 13h1v1h-1zM6 14h1v1h-1zM17 14h1v1h-1zM6 15h1v1h-1zM17 15h1v1h-1zM10 16h4v1h-4zM4 17h1v1h-1zM19 17h1v1h-1zM4 18h1v1h-1zM8 18h1v1h-1zM15 18h1v1h-1zM19 18h1v1h-1zM4 19h1v1h-1zM19 19h1v1h-1zM4 20h3v1h-3zM17 20h3v1h-3z"
+     id="path2" />
+  <path
+     style="fill:#ffe16b;stroke-width:0.0288115"
+     d="M 4.9987995,17.992797 V 15.990396 H 5.9927971 6.9867947 V 14.492197 12.993998 H 5.9927971 4.9987995 V 12 11.006002 H 4.0048019 3.0108043 V 9.997599 8.9891957 H 6.0072029 9.0036014 V 7.9951981 7.0012005 H 9.997599 10.991597 V 4.9987995 2.9963986 H 12 13.008403 v 2.0024009 2.002401 h 0.993998 0.993998 v 0.9939976 0.9939976 h 2.996398 2.996399 V 9.997599 11.006002 H 19.995198 19.0012 V 12 12.993998 h -0.993997 -0.993998 v 1.498199 1.498199 h 0.993998 0.993997 v 2.002401 2.002401 H 17.503001 16.004802 V 19.0012 18.007203 H 14.996399 13.987995 V 16.9988 15.990396 H 12 10.012005 V 16.9988 18.007203 H 9.0036014 7.9951981 V 19.0012 19.995198 H 6.4969988 4.9987995 Z"
+     id="path3" />
+</svg>

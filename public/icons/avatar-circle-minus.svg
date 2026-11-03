@@ -1,0 +1,6 @@
+<!-- Colored derivative of pixelarticons/avatar-circle-minus.svg (v2.4.2, MIT (c) Gerrit Halfmann) -->
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" shape-rendering="crispEdges">
+  <path fill="#ffffff" d="M11 7h2v1h-2zM9 9h1v2H9zM14 9h1v2h-1zM11 12h2v1h-2zM6 19h1v1H6zM7 20h1v1H7z"/>
+  <path fill="#ffffff" d="M6 2h12v2H6zM4 4h2v2H4zM18 4h2v2h-2zM2 6h2v12H2zM10 6h4v1h-4zM20 6h2v8h-2zM10 7h1v1h-1zM13 7h1v1h-1zM8 8h2v1H8zM14 8h2v1h-2zM8 9h1v2H8zM15 9h1v2h-1zM8 11h2v1H8zM14 11h2v1h-2zM10 12h1v1h-1zM13 12h1v1h-1zM10 13h4v1h-4zM8 16h6v2H8zM4 18h4v1H4zM4 19h2v1H4zM7 19h1v1H7zM6 20h1v1H6zM8 20h6v1H8zM6 21h8v1H6z"/>
+  <path fill="#7aa6ff" d="M16 18h6v2h-6z"/>
+</svg>

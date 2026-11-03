@@ -1,0 +1,6 @@
+<!-- Colored derivative of pixelarticons/app-windows.svg (v2.4.2, MIT (c) Gerrit Halfmann) -->
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" shape-rendering="crispEdges">
+  <path fill="#7aa6ff" d="M4 3h16v2H4zM2 5h2v14H2zM20 5h2v14h-2zM4 19h16v2H4z"/>
+  <path fill="#7aa6ff" d="M4 7h16v2H4z"/>
+  <path fill="#ffffff" d="M12 5h2v2h-2zM16 5h2v2h-2z"/>
+</svg>

@@ -1,0 +1,71 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@import "@pxlkit/ui-kit/styles.css";
+@import "@fontsource/press-start-2p";
+@import "@fontsource-variable/jetbrains-mono";
+
+@theme {
+  --color-shadow-50: #f0f1f4;
+  --color-shadow-100: #e2e3e9;
+  --color-shadow-200: #c4c8d4;
+  --color-shadow-300: #a7acbe;
+  --color-shadow-400: #8a90a8;
+  --color-shadow-500: #6c7593;
+  --color-shadow-600: #575d75;
+  --color-shadow-700: #414658;
+  --color-shadow-800: #2b2f3b;
+  --color-shadow-900: #16171d;
+  --color-shadow-950: #0f1015;
+
+  --color-ocean-50: #ecedf9;
+  --color-ocean-100: #d8dbf3;
+  --color-ocean-200: #b1b8e7;
+  --color-ocean-300: #8b94da;
+  --color-ocean-400: #6470ce;
+  --color-ocean-500: #3d4dc2;
+  --color-ocean-600: #313d9b;
+  --color-ocean-700: #252e74;
+  --color-ocean-800: #181f4e;
+  --color-ocean-900: #0c0f27;
+  --color-ocean-950: #090b1b;
+
+  --color-tomato-50: #f9ebeb;
+  --color-tomato-100: #f3d8d8;
+  --color-tomato-200: #e8b0b0;
+  --color-tomato-300: #dc8989;
+  --color-tomato-400: #d06262;
+  --color-tomato-500: #c43b3b;
+  --color-tomato-600: #9d2f2f;
+  --color-tomato-700: #762323;
+  --color-tomato-800: #4f1717;
+  --color-tomato-900: #270c0c;
+  --color-tomato-950: #1b0808;
+
+  --color-mint-50: #eef7f5;
+  --color-mint-100: #dcefeb;
+  --color-mint-200: #baded7;
+  --color-mint-300: #97cec3;
+  --color-mint-400: #74beaf;
+  --color-mint-500: #52ad9b;
+  --color-mint-600: #418b7c;
+  --color-mint-700: #31685d;
+  --color-mint-800: #21453e;
+  --color-mint-900: #10231f;
+  --color-mint-950: #0b1816;
+}
+
+@theme {
+  --cursor-custom:
+    url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 12' width='18' height='24'><path fill='white' d='M2 11h1v-1h2V8H4v1H3V3h1V2H3V1H2Zm3 1h3V9H7v2H6v-1H5Zm1-3h1V8h2V7H8V6H7v1H6ZM4 4h1V3H4Zm1 1h1V4H5Zm1 1h1V5H6Zm0 0'/></svg>"),
+    auto;
+}
+
+@layer base {
+  /* PixelInput renders its own clear button; hide the browser-native one. */
+  input[type="search"]::-webkit-search-cancel-button,
+  input[type="search"]::-webkit-search-decoration {
+    -webkit-appearance: none;
+    appearance: none;
+  }
+}
