@@ -1,5 +1,6 @@
 <!-- Colored derivative of pixelarticons/chart-bar-big.svg (v2.4.2, MIT (c) Gerrit Halfmann) -->
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" shape-rendering="crispEdges">
-  <path fill="#ffffff" d="M2 2h2v1h-2zM8 2h10v1h-10zM2 3h2v1h-2zM8 3h10v1h-10zM2 4h2v1h-2zM6 4h2v1h-2zM18 4h2v1h-2zM2 5h2v1h-2zM6 5h2v1h-2zM18 5h2v1h-2zM2 6h2v1h-2zM6 6h2v1h-2zM18 6h2v1h-2zM2 7h2v1h-2zM8 7h10v1h-10zM2 8h2v1h-2zM8 8h10v1h-10zM2 9h2v1h-2zM2 10h2v1h-2zM2 11h2v1h-2zM8 11h8v1h-8zM2 12h2v1h-2zM8 12h8v1h-8zM2 13h2v1h-2zM6 13h2v1h-2zM16 13h2v1h-2zM2 14h2v1h-2zM6 14h2v1h-2zM16 14h2v1h-2zM2 15h2v1h-2zM6 15h2v1h-2zM16 15h2v1h-2zM2 16h2v1h-2zM8 16h8v1h-8zM2 17h2v1h-2zM8 17h8v1h-8zM2 18h2v1h-2zM2 19h2v1h-2zM4 20h18v1h-18zM4 21h18v1h-18z"/>
-  <path fill="#7aa6ff" d="M9 3h8v1h-8zM7 5h1v1h-1zM18 5h1v1h-1zM9 7h8v1h-8zM9 12h6v1h-6zM7 14h1v1h-1zM16 14h1v1h-1zM9 16h6v1h-6z"/>
+  <path fill="#ffffff" d="M2 2h2v18H2zM4 20h18v2H4z"/>
+  <path fill="#3b82f6" d="M6 3h14v6H6z"/>
+  <path fill="#facc15" d="M6 12h10v6H6z"/>
 </svg>

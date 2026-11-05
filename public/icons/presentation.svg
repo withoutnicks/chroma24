@@ -1,5 +1,9 @@
 <!-- Colored derivative of pixelarticons/presentation.svg (v2.4.2, MIT (c) Gerrit Halfmann) -->
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" shape-rendering="crispEdges">
+  <path fill="#1f3a5f" d="M3 5h18v11H3z"/>
+  <path fill="#f87171" d="M7 10h2v4H7z"/>
+  <path fill="#facc15" d="M11 8h2v6h-2z"/>
+  <path fill="#4ade80" d="M15 6h2v8h-2z"/>
   <path fill="#c9d3e0" d="M2 4h20v1h-20zM3 5h1v1h-1zM20 5h1v1h-1zM3 6h1v1h-1zM20 6h1v1h-1zM3 7h1v1h-1zM20 7h1v1h-1zM3 8h1v1h-1zM20 8h1v1h-1zM3 9h1v1h-1zM20 9h1v1h-1zM3 10h1v1h-1zM20 10h1v1h-1zM3 11h1v1h-1zM20 11h1v1h-1zM3 12h1v1h-1zM20 12h1v1h-1zM3 13h1v1h-1zM20 13h1v1h-1zM3 14h1v1h-1zM20 14h1v1h-1zM5 16h14v1h-14zM9 17h2v1h-2zM13 17h2v1h-2z"/>
   <path fill="#8a93a5" d="M1 3h22v1h-22zM1 4h1v1h-1zM22 4h1v1h-1zM2 5h1v1h-1zM21 5h1v1h-1zM2 6h1v1h-1zM21 6h1v1h-1zM2 7h1v1h-1zM21 7h1v1h-1zM2 8h1v1h-1zM21 8h1v1h-1zM2 9h1v1h-1zM21 9h1v1h-1zM2 10h1v1h-1zM21 10h1v1h-1zM2 11h1v1h-1zM21 11h1v1h-1zM2 12h1v1h-1zM21 12h1v1h-1zM2 13h1v1h-1zM21 13h1v1h-1zM2 14h1v1h-1zM21 14h1v1h-1zM2 15h2v1h-2zM20 15h2v1h-2zM4 16h1v1h-1zM19 16h1v1h-1zM4 17h5v1h-5zM11 17h2v1h-2zM15 17h5v1h-5zM9 18h2v1h-2zM13 18h2v1h-2zM9 19h2v1h-2zM13 19h2v1h-2zM7 20h2v1h-2zM15 20h2v1h-2zM7 21h2v1h-2zM15 21h2v1h-2z"/>
   <path fill="#ffffff" d="M1 3h22v1h-22zM1 4h22v1h-22zM2 5h2v1h-2zM20 5h2v1h-2zM2 6h2v1h-2zM20 6h2v1h-2zM2 7h2v1h-2zM20 7h2v1h-2zM2 8h2v1h-2zM20 8h2v1h-2zM2 9h2v1h-2zM20 9h2v1h-2zM2 10h2v1h-2zM20 10h2v1h-2zM2 11h2v1h-2zM20 11h2v1h-2zM2 12h2v1h-2zM20 12h2v1h-2zM2 13h2v1h-2zM20 13h2v1h-2zM2 14h2v1h-2zM20 14h2v1h-2zM2 15h2v1h-2zM20 15h2v1h-2zM4 16h16v1h-16zM4 17h16v1h-16zM9 18h2v1h-2zM13 18h2v1h-2zM9 19h2v1h-2zM13 19h2v1h-2zM7 20h2v1h-2zM15 20h2v1h-2zM7 21h2v1h-2zM15 21h2v1h-2z"/>

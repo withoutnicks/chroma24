@@ -1,53 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Colored derivative of pixelarticons/backpack.svg (v2.4.2, MIT (c) Gerrit Halfmann) -->
-
-<svg
-   width="24"
-   height="24"
-   viewBox="0 0 24 24"
-   shape-rendering="crispEdges"
-   version="1.1"
-   id="svg2"
-   sodipodi:docname="backpack.svg"
-   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs2" />
-  <sodipodi:namedview
-     id="namedview2"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#505050"
-     inkscape:zoom="34.708333"
-     inkscape:cx="12"
-     inkscape:cy="12"
-     inkscape:window-width="1920"
-     inkscape:window-height="1051"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <path
-     fill="#ffffff"
-     d="M10 2h4v1h-4zM10 3h4v1h-4zM8 4h2v1h-2zM14 4h2v1h-2zM8 5h2v1h-2zM14 5h2v1h-2zM5 6h14v1h-14zM5 7h14v1h-14zM3 8h2v1h-2zM19 8h2v1h-2zM3 9h2v1h-2zM19 9h2v1h-2zM3 10h2v1h-2zM7 10h10v1h-10zM19 10h2v1h-2zM3 11h2v1h-2zM7 11h10v1h-10zM19 11h2v1h-2zM3 12h2v1h-2zM19 12h2v1h-2zM3 13h2v1h-2zM19 13h2v1h-2zM3 14h2v1h-2zM9 14h6v1h-6zM19 14h2v1h-2zM3 15h2v1h-2zM9 15h6v1h-6zM19 15h2v1h-2zM3 16h2v1h-2zM7 16h2v1h-2zM15 16h2v1h-2zM19 16h2v1h-2zM3 17h2v1h-2zM7 17h2v1h-2zM15 17h2v1h-2zM19 17h2v1h-2zM3 18h2v1h-2zM7 18h2v1h-2zM15 18h2v1h-2zM19 18h2v1h-2zM3 19h2v1h-2zM7 19h2v1h-2zM15 19h2v1h-2zM19 19h2v1h-2zM5 20h14v1h-14zM5 21h14v1h-14z"
-     id="path1" />
-  <path
-     fill="#7aa6ff"
-     d="M11 3h2v1h-2zM9 5h1v1h-1zM14 5h1v1h-1zM8 6h8v1h-8zM6 7h12v1h-12zM4 9h1v1h-1zM19 9h1v1h-1zM4 10h1v1h-1zM7 10h10v1h-10zM19 10h1v1h-1zM4 11h1v1h-1zM7 11h10v1h-10zM19 11h1v1h-1zM4 12h1v1h-1zM19 12h1v1h-1zM4 13h1v1h-1zM19 13h1v1h-1zM4 14h1v1h-1zM9 14h6v1h-6zM19 14h1v1h-1zM4 15h1v1h-1zM9 15h6v1h-6zM19 15h1v1h-1zM4 16h1v1h-1zM7 16h2v1h-2zM15 16h2v1h-2zM19 16h1v1h-1zM4 17h1v1h-1zM7 17h2v1h-2zM15 17h2v1h-2zM19 17h1v1h-1zM4 18h1v1h-1zM7 18h2v1h-2zM15 18h2v1h-2zM19 18h1v1h-1zM7 19h2v1h-2zM15 19h2v1h-2zM6 20h12v1h-12z"
-     id="path2" />
-  <path
-     style="fill:#3689e6;stroke-width:0.0288115"
-     d="M 4.9987995,14.002401 V 8.0096038 H 12 19.0012 v 5.9927972 5.992797 H 18.007203 17.013205 V 17.992797 15.990396 H 16.004802 14.996399 V 14.996399 14.002401 H 12 9.0036014 v 0.993998 0.993997 H 7.9951981 6.9867947 v 2.002401 2.002401 H 5.9927971 4.9987995 Z M 17.013205,10.991597 V 9.997599 H 12 6.9867947 v 0.993998 0.993997 H 12 17.013205 Z"
-     id="path3" />
-  <path
-     style="fill:#0d52bf;stroke-width:0.0288115"
-     d="M 9.0036014,17.992797 V 15.990396 H 12 14.996399 v 2.002401 2.002401 H 12 9.0036014 Z"
-     id="path5" />
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="24" height="24" viewBox="0 0 24 24">
+  <path id="path1" fill="#ffffff" d="M10 2h4v1h-4zM10 3h4v1h-4zM8 4h2v1h-2zM14 4h2v1h-2zM8 5h2v1h-2zM14 5h2v1h-2zM5 6h14v1h-14zM5 7h14v1h-14zM3 8h2v1h-2zM19 8h2v1h-2zM3 9h2v1h-2zM19 9h2v1h-2zM3 10h2v1h-2zM7 10h10v1h-10zM19 10h2v1h-2zM3 11h2v1h-2zM7 11h10v1h-10zM19 11h2v1h-2zM3 12h2v1h-2zM19 12h2v1h-2zM3 13h2v1h-2zM19 13h2v1h-2zM3 14h2v1h-2zM9 14h6v1h-6zM19 14h2v1h-2zM3 15h2v1h-2zM9 15h6v1h-6zM19 15h2v1h-2zM3 16h2v1h-2zM7 16h2v1h-2zM15 16h2v1h-2zM19 16h2v1h-2zM3 17h2v1h-2zM7 17h2v1h-2zM15 17h2v1h-2zM19 17h2v1h-2zM3 18h2v1h-2zM7 18h2v1h-2zM15 18h2v1h-2zM19 18h2v1h-2zM3 19h2v1h-2zM7 19h2v1h-2zM15 19h2v1h-2zM19 19h2v1h-2zM5 20h14v1h-14zM5 21h14v1h-14z" />
+  <path id="path2" fill="#7aa6ff" d="M11 3h2v1h-2zM9 5h1v1h-1zM14 5h1v1h-1zM8 6h8v1h-8zM6 7h12v1h-12zM4 9h1v1h-1zM19 9h1v1h-1zM4 10h1v1h-1zM7 10h10v1h-10zM19 10h1v1h-1zM4 11h1v1h-1zM7 11h10v1h-10zM19 11h1v1h-1zM4 12h1v1h-1zM19 12h1v1h-1zM4 13h1v1h-1zM19 13h1v1h-1zM4 14h1v1h-1zM9 14h6v1h-6zM19 14h1v1h-1zM4 15h1v1h-1zM9 15h6v1h-6zM19 15h1v1h-1zM4 16h1v1h-1zM7 16h2v1h-2zM15 16h2v1h-2zM19 16h1v1h-1zM4 17h1v1h-1zM7 17h2v1h-2zM15 17h2v1h-2zM19 17h1v1h-1zM4 18h1v1h-1zM7 18h2v1h-2zM15 18h2v1h-2zM19 18h1v1h-1zM7 19h2v1h-2zM15 19h2v1h-2zM6 20h12v1h-12z" />
+  <path id="path3" fill="#3689e6" stroke-width="0.0288115" d="M4.999 14.002V8.01H12h7.001v5.993v5.993h-.994h-.994v-1.988v-2.002h-1.008h-1.008V14.996v-.994H12H9.004v.994v.994H7.995H6.987v2.002v2.002H5.993H4.999ZM17.013 10.992V9.998H12H6.987v.994v.994H12h5.013Z" />
+  <path id="path5" fill="#0d52bf" stroke-width="0.0288115" d="M9.004 17.993v-2.002H12h2.996v2.002v2.002H12H9.004Z" />
 </svg>

@@ -1,5 +1,7 @@
 <!-- Colored derivative of pixelarticons/card.svg (v2.4.2, MIT (c) Gerrit Halfmann) -->
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" shape-rendering="crispEdges">
-  <path fill="#ffffff" d="M4 4h16v1h-16zM4 5h16v1h-16zM2 6h2v1h-2zM20 6h2v1h-2zM2 7h2v1h-2zM20 7h2v1h-2zM2 8h2v1h-2zM20 8h2v1h-2zM2 9h2v1h-2zM20 9h2v1h-2zM2 10h2v1h-2zM20 10h2v1h-2zM2 11h2v1h-2zM20 11h2v1h-2zM2 12h2v1h-2zM20 12h2v1h-2zM2 13h2v1h-2zM20 13h2v1h-2zM2 14h2v1h-2zM20 14h2v1h-2zM2 15h2v1h-2zM20 15h2v1h-2zM2 16h2v1h-2zM20 16h2v1h-2zM2 17h2v1h-2zM20 17h2v1h-2zM4 18h16v1h-16zM4 19h16v1h-16z"/>
-  <path fill="#7aa6ff" d="M5 5h14v1h-14zM3 7h1v1h-1zM20 7h1v1h-1zM3 8h1v1h-1zM20 8h1v1h-1zM3 9h1v1h-1zM20 9h1v1h-1zM3 10h1v1h-1zM20 10h1v1h-1zM3 11h1v1h-1zM20 11h1v1h-1zM3 12h1v1h-1zM20 12h1v1h-1zM3 13h1v1h-1zM20 13h1v1h-1zM3 14h1v1h-1zM20 14h1v1h-1zM3 15h1v1h-1zM20 15h1v1h-1zM3 16h1v1h-1zM20 16h1v1h-1zM5 18h14v1h-14z"/>
+  <path fill="#7aa6ff" d="M4 6h16v12h-16z"/>
+  <path fill="#bcd3ff" d="M4 6h16v1h-16z"/>
+  <path fill="#4f7fe0" d="M4 17h16v1h-16z"/>
+  <path fill="#0b3d91" d="M4 4h16v2h-16zM2 6h2v12h-2zM20 6h2v12h-2zM4 18h16v2h-16z"/>
 </svg>
