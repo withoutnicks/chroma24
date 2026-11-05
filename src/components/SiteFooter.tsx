@@ -1,37 +1,34 @@
-import { appConfig } from "../config";
-
 export function SiteFooter() {
   return (
-    <footer className="mt-auto border-t border-retro-border/60 py-6">
-      <div className="flex flex-col gap-2 font-mono text-[11px] leading-relaxed text-retro-muted sm:flex-row sm:items-center sm:justify-between">
-        <p>
-          Icons by Gerrit Halfmann, MIT. Colored derivatives of{" "}
-          <a
-            href="https://pixelarticons.com/"
-            className="font-bold text-retro-cyan transition-colors hover:text-retro-text hover:underline"
-          >
-            pixelarticons
-          </a>
-        </p>
-
-        <nav aria-label="Attribution links" className="flex gap-4">
-          <a
-            href={appConfig.links.upstream}
-            target="_blank"
-            rel="noreferrer"
-            className="transition-colors hover:text-retro-text"
-          >
-            Upstream
-          </a>
-          <a
-            href={appConfig.links.license}
-            target="_blank"
-            rel="noreferrer"
-            className="transition-colors hover:text-retro-text"
-          >
-            License
-          </a>
-        </nav>
+    <footer className="mt-16 border-t border-retro-border/70">
+      <div className="mx-auto flex w-full max-w-360 flex-col gap-6 px-4 py-8 sm:px-6 lg:flex-row lg:items-end lg:justify-between">
+        <div className="max-w-xl">
+          <div className="mb-4 flex gap-1" aria-hidden="true">
+            <span className="size-2 bg-ocean-400" />
+            <span className="size-2 bg-mint-400" />
+            <span className="size-2 bg-tomato-400" />
+          </div>
+          <p className="font-mono text-[11px] leading-relaxed text-retro-muted">
+            Chroma24 is an independent colored collection based on Pixelarticons
+          </p>
+        </div>
+        <a
+          href="https://wts-portfolio.netlify.app/"
+          title="Gerardo Caycho"
+          rel="noreferrer"
+          target="_blank"
+          className="group flex items-center space-x-2 transition-colors hover:text-black dark:hover:text-white"
+        >
+          <span className="hidden md:block font-mono leading-relaxed text-retro-muted text-sm">
+            by
+          </span>
+          <img
+            className="group-hover:ring-react-symbol-aqua h-6 w-6 rounded-full transition-shadow group-hover:ring-2"
+            src="https://avatars.githubusercontent.com/u/123419105?v=4"
+            alt="Gerardo Caycho"
+          />
+          <span className="font-mono leading-relaxed text-retro-muted text-sm">Gerardo Caycho</span>
+        </a>
       </div>
     </footer>
   );

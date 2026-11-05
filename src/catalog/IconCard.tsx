@@ -1,4 +1,4 @@
-import { PixelCard, PixelIconButton, PixelTooltip } from "@pxlkit/ui-kit";
+import { PixelCard } from "@pxlkit/ui-kit";
 import type { IconEntry } from "./catalog";
 import { useCopyIcon } from "./useCopyIcon";
 
@@ -11,39 +11,35 @@ export function IconCard({ icon, size }: IconCardProps) {
   const { copied, copy } = useCopyIcon();
 
   return (
-    <PixelCard className="group">
-      <div className="mt-4 flex items-center justify-center relative">
-        <PixelTooltip content={copied ? "Copied" : "Copy SVG"} position="top">
-          <PixelIconButton
-            size="sm"
-            tone={copied ? "green" : "neutral"}
-            label={`Copy ${icon.name}.svg`}
-            icon={
-              copied ? (
-                <svg width="14" height="14" aria-hidden="true" focusable="false">
-                  <use href="/icons.svg#check-icon"></use>
-                </svg>
-              ) : (
-                <svg width="14" height="14" aria-hidden="true" focusable="false">
-                  <use href="/icons.svg#copy-icon"></use>
-                </svg>
-              )
-            }
-            onClick={() => void copy(icon)}
-            className="absolute left-10 bottom-8"
+    <PixelCard
+      interactive
+      onClick={() => void copy(icon)}
+      aria-label={`${copied ? "Copied" : "Copy"} ${icon.name}.svg`}
+      className={`workbench-cell ${copied ? "workbench-cell--copied" : ""}`}
+      padding="none"
+    >
+      <div className="flex min-h-40 flex-col items-center justify-between px-3 py-4 sm:min-h-44">
+        <div className="flex min-h-24 flex-1 items-center justify-center">
+          <img
+            src={icon.url}
+            alt=""
+            width={size}
+            height={size}
+            loading="lazy"
+            decoding="async"
+            draggable={false}
+            className="pixelated-image"
+            style={{ width: size, height: size }}
           />
-        </PixelTooltip>
-        <img
-          src={icon.url}
-          alt=""
-          width={size}
-          height={size}
-          loading="lazy"
-          decoding="async"
-          draggable={false}
-          className="[image-rendering:pixelated] transition-transform duration-150 motion-safe:group-hover:scale-105 my-4"
-          style={{ width: size, height: size }}
-        />
+        </div>
+        <div className="flex w-full items-center justify-between gap-2 border-t border-retro-border/50 pt-3">
+          <span className="min-w-0 truncate font-mono text-[10px] text-retro-text">
+            {icon.name}
+          </span>
+          <span className="shrink-0 font-mono text-[9px] text-retro-muted" aria-hidden="true">
+            {copied ? "Copied" : "Copy"}
+          </span>
+        </div>
       </div>
     </PixelCard>
   );

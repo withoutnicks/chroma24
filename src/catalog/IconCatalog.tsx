@@ -1,7 +1,8 @@
 import { appConfig } from "../config";
-import { type CategoryFilter, icons } from "./catalog";
+import { CATEGORY_OPTIONS, type CategoryFilter, icons } from "./catalog";
 import { IconCard } from "./IconCard";
 import { CatalogControls } from "./CatalogControls";
+import { CatalogSidebar } from "./CatalogSidebar";
 import { PxlKitIcon } from "@pxlkit/core";
 import { Sad } from "@pxlkit/social";
 import { PixelButton, PixelEmptyState, PixelPagination, useLocalStorage } from "@pxlkit/ui-kit";
@@ -10,6 +11,17 @@ import { useState } from "react";
 const { pageSize, storageKey, iconSize } = appConfig.catalog;
 const iconSizeLimits: { min: number; max: number } = iconSize;
 const defaultIconSize: number = iconSize.default;
+
+const categoryCounts = CATEGORY_OPTIONS.reduce(
+  (counts, option) => {
+    counts[option.value as CategoryFilter] =
+      option.value === "all"
+        ? icons.length
+        : icons.filter((icon) => icon.category === option.value).length;
+    return counts;
+  },
+  {} as Record<CategoryFilter, number>,
+);
 
 export function IconCatalog() {
   const [query, setQuery] = useState("");
@@ -46,45 +58,57 @@ export function IconCatalog() {
   }
 
   return (
-    <section aria-label="Colored icons" className="flex flex-col gap-6 pb-16">
-      <CatalogControls
-        query={query}
-        onQueryChange={handleQueryChange}
-        category={category}
-        onCategoryChange={handleCategoryChange}
-        size={size}
-        onSizeChange={setStoredSize}
-      />
-
-      {filteredIcons.length === 0 ? (
-        <PixelEmptyState
-          title="No icons found"
-          description={emptyDescription(query, category)}
-          icon={<PxlKitIcon icon={Sad} size={32} decorative />}
-          action={
-            <PixelButton
-              variant="outline"
-              tone="neutral"
-              size="sm"
-              onClick={() => handleClearFilters()}
-            >
-              Clear filters
-            </PixelButton>
-          }
+    <section aria-labelledby="catalog-title">
+      <div className="workbench-layout">
+        <CatalogSidebar
+          query={query}
+          onQueryChange={handleQueryChange}
+          category={category}
+          onCategoryChange={handleCategoryChange}
+          categoryCounts={categoryCounts}
         />
-      ) : (
-        <>
-          <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 xl:grid-cols-8">
-            {visibleIcons.map((icon) => (
-              <IconCard key={icon.name} icon={icon} size={size} />
-            ))}
-          </div>
 
-          {totalPages > 1 ? (
-            <PixelPagination page={safePage} total={totalPages} onChange={setCurrentPage} />
-          ) : null}
-        </>
-      )}
+        <div className="min-w-0">
+          <CatalogControls
+            resultCount={filteredIcons.length}
+            totalCount={icons.length}
+            size={size}
+            onSizeChange={setStoredSize}
+          />
+
+          {filteredIcons.length === 0 ? (
+            <PixelEmptyState
+              title="No icons found"
+              description={emptyDescription(query, category)}
+              icon={<PxlKitIcon icon={Sad} size={32} decorative />}
+              action={
+                <PixelButton
+                  variant="outline"
+                  tone="neutral"
+                  size="sm"
+                  onClick={() => handleClearFilters()}
+                >
+                  Clear filters
+                </PixelButton>
+              }
+            />
+          ) : (
+            <>
+              <div className="workbench-grid" aria-label="Icon results">
+                {visibleIcons.map((icon) => (
+                  <IconCard key={icon.name} icon={icon} size={size} />
+                ))}
+              </div>
+
+              <div className="mt-8 flex justify-end">
+                {totalPages > 1 ? (
+                  <PixelPagination page={safePage} total={totalPages} onChange={setCurrentPage} />
+                ) : null}
+              </div>
+            </>
+          )}
+        </div>
+      </div>
     </section>
   );
 }

@@ -4,11 +4,16 @@ import { IconCatalog } from "./catalog/IconCatalog";
 
 function App() {
   return (
-    <main className="mx-auto flex min-h-dvh w-full max-w-5xl flex-col px-4">
+    <div className="min-h-dvh bg-retro-bg text-retro-text">
+      <a className="skip-link" href="#main-content">
+        Skip to icon catalog
+      </a>
       <SiteHeader />
-      <IconCatalog />
+      <main id="main-content" className="mx-auto w-full max-w-360 px-4 sm:px-6">
+        <IconCatalog />
+      </main>
       <SiteFooter />
-    </main>
+    </div>
   );
 }
 
