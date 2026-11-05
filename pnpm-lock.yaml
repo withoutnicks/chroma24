@@ -17,12 +17,6 @@ importers:
       '@pxlkit/core':
         specifier: ^1.4.0
         version: 1.4.0(react-dom@19.3.1(react@19.3.1))(react@19.3.1)
-      '@pxlkit/feedback':
-        specifier: ^1.2.6
-        version: 1.2.6(react-dom@19.3.1(react@19.3.1))(react@19.3.1)
-      '@pxlkit/gamification':
-        specifier: ^1.2.5
-        version: 1.2.5(react-dom@19.3.1(react@19.3.1))(react@19.3.1)
       '@pxlkit/social':
         specifier: ^1.2.5
         version: 1.2.5(react-dom@19.3.1(react@19.3.1))(react@19.3.1)
@@ -445,9 +439,6 @@ packages:
         optional: true
       react-dom:
         optional: true
-
-  '@pxlkit/feedback@1.2.6':
-    resolution: {integrity: sha512-LAFUxtqN738xMuR/aE43Eq2OGJDvwjAnhuPAYksByVxSur7orE6lUb20Zb6yvJkxbtNkhQI4xM6dGq73T+c9Sg==}
 
   '@pxlkit/gamification@1.2.5':
     resolution: {integrity: sha512-YpahlXh/hYD5WTkpT/oaHC+9+uCFixXbvFuFEx3YhiIjhKrj5g9aSQengqa33SRf64Sb84txxsp2j7kX3opYeg==}
@@ -1529,13 +1520,6 @@ snapshots:
     optionalDependencies:
       react: 19.3.1
       react-dom: 19.3.1(react@19.3.1)
-
-  '@pxlkit/feedback@1.2.6(react-dom@19.3.1(react@19.3.1))(react@19.3.1)':
-    dependencies:
-      '@pxlkit/core': 1.4.0(react-dom@19.3.1(react@19.3.1))(react@19.3.1)
-    transitivePeerDependencies:
-      - react
-      - react-dom
 
   '@pxlkit/gamification@1.2.5(react-dom@19.3.1(react@19.3.1))(react@19.3.1)':
     dependencies:
