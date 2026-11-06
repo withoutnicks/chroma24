@@ -61,8 +61,11 @@
   }
 
   :root {
-    --retro-muted: #5a5a6e;
-    --retro-border-strong: #817c67;
+    --retro-surface: #fafaf7;
+    --retro-card: #f0f1f4;
+    --retro-border: #c4c8d4;
+    --retro-border-strong: #848aa1;
+    --retro-muted: #575d75;
   }
 
   body {
@@ -209,44 +212,6 @@
     backdrop-filter: blur(12px);
   }
 
-  .workbench-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(8.5rem, 1fr));
-    border-top: 1px solid var(--color-retro-border-strong);
-    border-left: 1px solid var(--color-retro-border-strong);
-  }
-
-  .workbench-cell {
-    min-width: 0;
-    border-radius: 0;
-    border-top: 0;
-    border-left: 0;
-    border-right: 1px solid var(--color-retro-border-strong);
-    border-bottom: 1px solid var(--color-retro-border-strong);
-    background-color: color-mix(in srgb, var(--color-retro-bg) 80%, var(--color-retro-border));
-    transition:
-      background-color 150ms ease,
-      border-color 150ms ease;
-  }
-
-  .workbench-cell:hover,
-  .workbench-cell:focus-visible {
-    border-color: var(--color-retro-cyan);
-    background-color: color-mix(in srgb, var(--color-retro-cyan) 8%, var(--color-retro-bg));
-  }
-
-  .workbench-cell:focus-visible {
-    position: relative;
-    z-index: 1;
-    outline: 2px solid var(--color-retro-cyan);
-    outline-offset: -2px;
-  }
-
-  .workbench-cell--copied {
-    border-color: var(--color-mint-400);
-    background-color: color-mix(in srgb, var(--color-mint-400) 8%, var(--color-retro-bg));
-  }
-
   @media (max-width: 767px) {
     .workbench-intro {
       align-items: flex-start;
@@ -291,8 +256,7 @@
     }
 
     .skip-link,
-    .workbench-category,
-    .workbench-cell {
+    .workbench-category {
       transition: none;
     }
   }

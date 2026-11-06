@@ -94,7 +94,10 @@ export function IconCatalog() {
             />
           ) : (
             <>
-              <div className="workbench-grid" aria-label="Icon results">
+              <div
+                className="grid grid-cols-[repeat(auto-fill,minmax(8.5rem,1fr))] gap-px bg-retro-border-strong p-px"
+                aria-label="Icon results"
+              >
                 {visibleIcons.map((icon) => (
                   <IconCard key={icon.name} icon={icon} size={size} />
                 ))}
