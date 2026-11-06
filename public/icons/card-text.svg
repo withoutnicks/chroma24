@@ -1,9 +1,2 @@
 <!-- Colored derivative of pixelarticons/card-text.svg (v2.4.2, MIT (c) Gerrit Halfmann) -->
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" shape-rendering="crispEdges">
-  <path fill="#7aa6ff" d="M4 6h16v12h-16z"/>
-  <path fill="#bcd3ff" d="M4 6h16v1h-16z"/>
-  <path fill="#4f7fe0" d="M4 17h16v1h-16z"/>
-  <path fill="#ffffff" d="M6 8h12v1h-12zM6 12h8v1h-8z"/>
-  <path fill="#cfe0ff" d="M6 9h12v1h-12zM6 13h8v1h-8z"/>
-  <path fill="#0b3d91" d="M4 4h16v2h-16zM2 6h2v12h-2zM20 6h2v12h-2zM4 18h16v2h-16z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" shape-rendering="crispEdges" viewBox="0 0 24 24"><path fill="#7aa6ff" d="M4 6h16v12H4z"/><path fill="#bcd3ff" d="M4 6h16v1H4z"/><path fill="#4f7fe0" d="M4 17h16v1H4z"/><path fill="#fff" d="M6 8h12v1H6zm0 4h8v1H6z"/><path fill="#cfe0ff" d="M6 9h12v1H6zm0 4h8v1H6z"/><path fill="#27364b" d="M4 4h16v2H4zM2 6h2v12H2zm18 0h2v12h-2zM4 18h16v2H4z"/></svg>

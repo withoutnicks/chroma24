@@ -1,6 +1,2 @@
 <!-- Colored derivative of pixelarticons/file.svg (v2.4.2, MIT (c) Gerrit Halfmann) -->
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" shape-rendering="crispEdges">
-  <path fill="#713f12" d="M6 2h10v2h-10zM4 4h2v16h-2zM12 4h2v4h-2zM16 4h2v2h-2zM18 6h2v2h-2zM12 8h8v2h-8zM18 10h2v10h-2zM6 20h12v2h-12z"/>
-  <path fill="#fff4d6" d="M6 4h6v6h-6zM6 10h12v10h-12z"/>
-  <path fill="#fde68a" d="M14 4h2v2h-2zM14 6h4v2h-4z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" shape-rendering="crispEdges" viewBox="0 0 24 24"><path fill="#27364b" d="M6 2h10v2H6zM4 4h2v16H4zm8 0h2v4h-2zm4 0h2v2h-2zm2 2h2v2h-2zm-6 2h8v2h-8zm6 2h2v10h-2zM6 20h12v2H6z"/><path fill="#fff4d6" d="M6 4h6v6H6zm0 6h12v10H6z"/><path fill="#fde68a" d="M14 4h2v2h-2zm0 2h4v2h-4z"/></svg>

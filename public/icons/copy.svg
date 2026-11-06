@@ -1,9 +1,2 @@
 <!-- Colored derivative of pixelarticons/copy.svg (v2.4.2, MIT (c) Gerrit Halfmann) -->
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" shape-rendering="crispEdges">
-  <path fill="#1f3a5f" d="M4 2h12v2h-12zM2 4h2v12h-2zM16 4h2v2h-2zM8 6h12v2h-12zM6 8h2v8h-2zM20 8h2v12h-2zM4 16h4v2h-4zM6 18h2v2h-2zM8 20h12v2h-12z"/>
-  <path fill="#bcd3ff" d="M4 4h12v1h-12z"/>
-  <path fill="#7aa6ff" d="M4 5h12v1h-12zM4 6h4v2h-4zM4 8h2v8h-2z"/>
-  <path fill="#ffffff" d="M8 8h12v1h-12z"/>
-  <path fill="#fffaf0" d="M8 9h12v10h-12z"/>
-  <path fill="#e6dcc8" d="M8 19h12v1h-12z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" shape-rendering="crispEdges" viewBox="0 0 24 24"><path fill="#27364b" d="M4 2h12v2H4zM2 4h2v12H2zm14 0h2v2h-2zM8 6h12v2H8zM6 8h2v8H6zm14 0h2v12h-2zM4 16h4v2H4zm2 2h2v2H6zm2 2h12v2H8z"/><path fill="#bcd3ff" d="M4 4h12v1H4z"/><path fill="#7aa6ff" d="M4 5h12v1H4zm0 1h4v2H4zm0 2h2v8H4z"/><path fill="#fff" d="M8 8h12v1H8z"/><path fill="#fffaf0" d="M8 9h12v10H8z"/><path fill="#e6dcc8" d="M8 19h12v1H8z"/></svg>

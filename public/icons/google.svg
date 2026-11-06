@@ -1,8 +1,2 @@
 <!-- Colored derivative of pixelarticons/google.svg (v2.4.2, MIT (c) Gerrit Halfmann) -->
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" shape-rendering="crispEdges">
-  <path fill="#4285f4" d="M7 3h10v1h-10zM7 4h10v1h-10zM5 5h2v1h-2zM17 5h2v1h-2zM5 6h2v1h-2zM17 6h2v1h-2zM3 7h2v1h-2zM3 8h2v1h-2zM3 9h2v1h-2zM3 10h2v1h-2zM3 11h2v1h-2zM13 11h8v1h-8zM3 12h2v1h-2zM13 12h8v1h-8zM3 13h2v1h-2zM19 13h2v1h-2zM3 14h2v1h-2zM19 14h2v1h-2zM3 15h2v1h-2zM19 15h2v1h-2zM3 16h2v1h-2zM19 16h2v1h-2zM5 17h2v1h-2zM17 17h2v1h-2zM5 18h2v1h-2zM17 18h2v1h-2zM7 19h10v1h-10zM7 20h10v1h-10z"/>
-  <!-- The four brand colors follow the original G silhouette. -->
-  <path fill="#ea4335" d="M7 3h10v2H7zM5 5h2v2H5zM17 5h2v2h-2z"/>
-  <path fill="#fbbc05" d="M3 7h2v5H3z"/>
-  <path fill="#34a853" d="M3 12h2v5H3zM5 17h2v2H5zM7 19h10v2H7z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" shape-rendering="crispEdges" viewBox="0 0 24 24"><path fill="#4285f4" d="M7 3h10v1H7zm0 1h10v1H7zM5 5h2v1H5zm12 0h2v1h-2zM5 6h2v1H5zm12 0h2v1h-2zM3 7h2v1H3zm0 1h2v1H3zm0 1h2v1H3zm0 1h2v1H3zm0 1h2v1H3zm10 0h8v1h-8zM3 12h2v1H3zm10 0h8v1h-8zM3 13h2v1H3zm16 0h2v1h-2zM3 14h2v1H3zm16 0h2v1h-2zM3 15h2v1H3zm16 0h2v1h-2zM3 16h2v1H3zm16 0h2v1h-2zM5 17h2v1H5zm12 0h2v1h-2zM5 18h2v1H5zm12 0h2v1h-2zM7 19h10v1H7zm0 1h10v1H7z"/><path fill="#ea4335" d="M7 3h10v2H7zM5 5h2v2H5zm12 0h2v2h-2z"/><path fill="#fbbc05" d="M3 7h2v5H3z"/><path fill="#34a853" d="M3 12h2v5H3zm2 5h2v2H5zm2 2h10v2H7z"/></svg>

@@ -1,6 +1,2 @@
 <!-- Colored derivative of pixelarticons/delete.svg (v2.4.2, MIT (c) Gerrit Halfmann) -->
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" shape-rendering="crispEdges">
-  <path fill="#7f1d1d" d="M8 5h12v1h-12zM8 6h1v1h-1zM19 6h1v1h-1zM6 7h2v1h-2zM20 7h2v1h-2zM6 8h1v1h-1zM21 8h1v8h-1zM4 9h2v1h-2zM4 10h1v1h-1zM2 11h2v2h-2zM4 13h1v1h-1zM4 14h2v1h-2zM6 15h1v1h-1zM6 16h2v1h-2zM20 16h2v1h-2zM8 17h1v1h-1zM19 17h1v1h-1zM8 18h12v1h-12z"/>
-  <path fill="#ff4b4b" d="M9 6h10v1h-10zM7 8h1v1h-1zM20 8h1v8h-1zM12 9h2v2h-2zM16 9h2v2h-2zM5 10h1v1h-1zM14 11h2v2h-2zM5 13h1v1h-1zM12 13h2v2h-2zM16 13h2v2h-2zM7 15h1v1h-1zM9 17h10v1h-10z"/>
-  <path fill="#ef4444" d="M8 7h1v1h-1zM19 7h1v1h-1zM6 9h1v1h-1zM4 11h1v2h-1zM6 14h1v1h-1zM8 16h1v1h-1zM19 16h1v1h-1z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" shape-rendering="crispEdges" viewBox="0 0 24 24"><path fill="#27364b" d="M8 5h12v1H8zm0 1h1v1H8zm11 0h1v1h-1zM6 7h2v1H6zm14 0h2v1h-2zM6 8h1v1H6zm15 0h1v8h-1zM4 9h2v1H4zm0 1h1v1H4zm-2 1h2v2H2zm2 2h1v1H4zm0 1h2v1H4zm2 1h1v1H6zm0 1h2v1H6zm14 0h2v1h-2zM8 17h1v1H8zm11 0h1v1h-1zM8 18h12v1H8zM9 6h10v1H9zM7 8h1v1H7zm13 0h1v8h-1zm-8 1h2v2h-2zm4 0h2v2h-2zM5 10h1v1H5zm9 1h2v2h-2zm-9 2h1v1H5zm7 0h2v2h-2zm4 0h2v2h-2zm-9 2h1v1H7zm2 2h10v1H9zM8 7h1v1H8zm11 0h1v1h-1zM6 9h1v1H6zm-2 2h1v2H4zm2 3h1v1H6zm2 2h1v1H8zm11 0h1v1h-1z"/></svg>

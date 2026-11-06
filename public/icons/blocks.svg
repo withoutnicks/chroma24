@@ -1,9 +1,2 @@
 <!-- Colored derivative of pixelarticons/blocks.svg (v2.4.2, MIT (c) Gerrit Halfmann) -->
-<!-- Colored derivative of pixelarticons/blocks.svg (v2.4.2, MIT (c) Gerrit Halfmann) -->
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" shape-rendering="crispEdges">
-  <path fill="#7c2d12" d="M15 1h6v2h-6zM13 3h2v6h-2zM21 3h2v6h-2zM3 5h6v2h-6zM1 7h2v6h-2zM9 7h2v6h-2zM15 9h6v2h-6zM1 13h1v2h-1zM3 13h6v2h-6zM11 13h6v2h-6zM1 15h2v6h-2zM9 15h2v6h-2zM17 15h2v6h-2zM3 21h6v1h-6zM11 21h6v1h-6zM3 22h14v1h-14z"/>
-  <path fill="#fdba74" d="M15 3h6v1h-6zM15 4h1v4h-1zM3 7h6v1h-6zM3 8h1v4h-1zM3 15h6v1h-6zM11 15h6v1h-6zM3 16h1v4h-1zM11 16h1v4h-1z"/>
-  <path fill="#ea580c" d="M20 4h1v4h-1zM8 8h1v4h-1zM15 8h6v1h-6zM3 12h6v1h-6zM8 16h1v4h-1zM16 16h1v4h-1zM3 20h6v1h-6zM11 20h6v1h-6z"/>
-  <path fill="#fb923c" d="M2 13h1v2h-1zM9 13h2v2h-2zM9 21h2v1h-2z"/>
-</svg>
-
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" shape-rendering="crispEdges" viewBox="0 0 24 24"><path fill="#27364b" d="M15 1h6v2h-6zm-2 2h2v6h-2zm8 0h2v6h-2zM3 5h6v2H3zM1 7h2v6H1zm8 0h2v6H9zm6 2h6v2h-6zM1 13h1v2H1zm2 0h6v2H3zm8 0h6v2h-6zM1 15h2v6H1zm8 0h2v6H9zm8 0h2v6h-2zM3 21h6v1H3zm8 0h6v1h-6zm-8 1h14v1H3z"/><path fill="#fdba74" d="M15 3h6v1h-6zm0 1h1v4h-1zM3 7h6v1H3zm0 1h1v4H3zm0 7h6v1H3zm8 0h6v1h-6zm-8 1h1v4H3zm8 0h1v4h-1z"/><path fill="#ea580c" d="M20 4h1v4h-1zM8 8h1v4H8zm7 0h6v1h-6zM3 12h6v1H3zm5 4h1v4H8zm8 0h1v4h-1zM3 20h6v1H3zm8 0h6v1h-6z"/><path fill="#27364b" d="M2 13h1v2H2zm7 0h2v2H9zm0 8h2v1H9z"/></svg>

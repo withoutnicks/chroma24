@@ -1,5 +1,2 @@
 <!-- Colored derivative of pixelarticons/github.svg (v2.4.2, MIT (c) Gerrit Halfmann) -->
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" shape-rendering="crispEdges">
-  <path fill="#1f2937" d="M6 0h12v2H6zM4 2h16v2H4zM2 4h20v2H2zM0 6h24v12H0zM2 18h20v2H2zM4 20h16v2H4zM6 22h12v2H6z"/>
-  <path fill="#c9d3e0" d="M5 2h4v1h-4zM15 2h4v1h-4zM5 3h4v1h-4zM15 3h4v1h-4zM5 4h2v1h-2zM9 4h6v1h-6zM17 4h2v1h-2zM5 5h2v1h-2zM9 5h6v1h-6zM17 5h2v1h-2zM3 6h2v1h-2zM19 6h2v1h-2zM3 7h2v1h-2zM19 7h2v1h-2zM3 8h2v1h-2zM19 8h2v1h-2zM3 9h2v1h-2zM19 9h2v1h-2zM3 10h2v1h-2zM19 10h2v1h-2zM3 11h2v1h-2zM19 11h2v1h-2zM5 12h2v1h-2zM17 12h2v1h-2zM5 13h2v1h-2zM17 13h2v1h-2zM1 14h2v1h-2zM7 14h2v1h-2zM15 14h2v1h-2zM1 15h2v1h-2zM7 15h2v1h-2zM15 15h2v1h-2zM3 16h4v1h-4zM9 16h2v1h-2zM13 16h2v1h-2zM3 17h4v1h-4zM9 17h2v1h-2zM13 17h2v1h-2zM7 18h2v1h-2zM15 18h2v1h-2zM7 19h2v1h-2zM15 19h2v1h-2zM7 20h2v1h-2zM15 20h2v1h-2zM7 21h2v1h-2zM15 21h2v1h-2z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="#27364b" viewBox="0 0 24 24"><path d="M19 14h-2v2h-2v2h2v4H7v-4H3v-2H1v-2h2v2h4v-2H5v-2H3V6h2V2h4v2h6V2h4v4h2v6h-2v2ZM7 18h2v-2H7v2Z"/></svg>

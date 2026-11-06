@@ -1,6 +1,2 @@
 <!-- Colored derivative of pixelarticons/chart-bar-big.svg (v2.4.2, MIT (c) Gerrit Halfmann) -->
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" shape-rendering="crispEdges">
-  <path fill="#ffffff" d="M2 2h2v18H2zM4 20h18v2H4z"/>
-  <path fill="#3b82f6" d="M6 3h14v6H6z"/>
-  <path fill="#facc15" d="M6 12h10v6H6z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" shape-rendering="crispEdges" viewBox="0 0 24 24"><path fill="#27364b" d="M2 2h2v18H2zm2 18h18v2H4z"/><path fill="#3b82f6" d="M6 3h14v6H6z"/><path fill="#facc15" d="M6 12h10v6H6z"/></svg>

@@ -1,5 +1,4 @@
 @import "tailwindcss";
-@custom-variant dark (&:where(.dark, .dark *));
 
 @import "@pxlkit/ui-kit/styles.css";
 @import "@fontsource/press-start-2p";
@@ -55,15 +54,15 @@
   --color-mint-950: #0b1816;
 }
 
-@theme {
-  --cursor-custom:
-    url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 12' width='18' height='24'><path fill='white' d='M2 11h1v-1h2V8H4v1H3V3h1V2H3V1H2Zm3 1h3V9H7v2H6v-1H5Zm1-3h1V8h2V7H8V6H7v1H6ZM4 4h1V3H4Zm1 1h1V4H5Zm1 1h1V5H6Zm0 0'/></svg>"),
-    auto;
-}
-
 @layer base {
   html {
+    color-scheme: light;
     scroll-behavior: smooth;
+  }
+
+  :root {
+    --retro-muted: #5a5a6e;
+    --retro-border-strong: #817c67;
   }
 
   body {
@@ -213,8 +212,8 @@
   .workbench-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(8.5rem, 1fr));
-    border-top: 1px solid color-mix(in srgb, var(--color-retro-border) 60%, transparent);
-    border-left: 1px solid color-mix(in srgb, var(--color-retro-border) 60%, transparent);
+    border-top: 1px solid var(--color-retro-border-strong);
+    border-left: 1px solid var(--color-retro-border-strong);
   }
 
   .workbench-cell {
@@ -222,8 +221,8 @@
     border-radius: 0;
     border-top: 0;
     border-left: 0;
-    border-right: 1px solid color-mix(in srgb, var(--color-retro-border) 60%, transparent);
-    border-bottom: 1px solid color-mix(in srgb, var(--color-retro-border) 60%, transparent);
+    border-right: 1px solid var(--color-retro-border-strong);
+    border-bottom: 1px solid var(--color-retro-border-strong);
     background-color: color-mix(in srgb, var(--color-retro-bg) 80%, var(--color-retro-border));
     transition:
       background-color 150ms ease,
@@ -273,7 +272,7 @@
       display: grid;
       grid-template-columns: repeat(2, minmax(0, 1fr));
       gap: 1px;
-      background-color: color-mix(in srgb, var(--color-retro-border) 55%, transparent);
+      background-color: var(--color-retro-border-strong);
       padding-top: 1px;
     }
 

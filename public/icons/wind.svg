@@ -1,4 +1,2 @@
 <!-- Colored derivative of pixelarticons/wind.svg (v2.4.2, MIT (c) Gerrit Halfmann) -->
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" shape-rendering="crispEdges">
-  <path fill="#c9d3e0" d="M7 1h5v1h-5zM7 2h5v1h-5zM12 3h2v1h-2zM12 4h2v1h-2zM12 5h2v1h-2zM16 5h4v1h-4zM12 6h2v1h-2zM16 6h4v1h-4zM2 7h10v1h-10zM20 7h2v1h-2zM2 8h10v1h-10zM20 8h2v1h-2zM20 9h2v1h-2zM20 10h2v1h-2zM2 11h18v1h-18zM2 12h18v1h-18zM2 15h12v1h-12zM2 16h12v1h-12zM14 17h2v1h-2zM14 18h2v1h-2zM9 19h5v1h-5zM9 20h5v1h-5z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" shape-rendering="crispEdges" viewBox="0 0 24 24"><path fill="#8b8bdb" d="M7 1h5v1H7zm0 1h5v1H7zm5 1h2v1h-2zm0 1h2v1h-2zm0 1h2v1h-2zm4 0h4v1h-4zm-4 1h2v1h-2zm4 0h4v1h-4zM2 7h10v1H2zm18 0h2v1h-2zM2 8h10v1H2zm18 0h2v1h-2zm0 1h2v1h-2zm0 1h2v1h-2zM2 11h18v1H2zm0 1h18v1H2zm0 3h12v1H2zm0 1h12v1H2zm12 1h2v1h-2zm0 1h2v1h-2zm-5 1h5v1H9zm0 1h5v1H9z"/></svg>

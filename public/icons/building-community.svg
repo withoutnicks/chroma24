@@ -1,13 +1,2 @@
 <!-- Colored derivative of pixelarticons/building-community.svg (v2.4.2, MIT (c) Gerrit Halfmann) -->
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" shape-rendering="crispEdges">
-  <path fill="#7aa6ff" d="M10 4h10v16h-10z"/>
-  <path fill="#bcd3ff" d="M10 4h10v1h-10z"/>
-  <path fill="#4f7fe0" d="M18 5h2v15h-2z"/>
-  <path fill="#fffaf0" d="M8 10h2v2h-2zM6 12h6v2h-6zM4 14h10v6h-10z"/>
-  <path fill="#e6dcc8" d="M4 19h10v1h-10z"/>
-  <path fill="#fcd34d" d="M12 6h2v2h-2zM16 6h2v2h-2zM16 10h2v2h-2z"/>
-  <path fill="#f59e0b" d="M12 7h2v1h-2zM16 7h2v1h-2zM16 11h2v1h-2z"/>
-  <path fill="#b45309" d="M8 16h2v4h-2z"/>
-  <path fill="#fcd34d" d="M9 18h1v1h-1z"/>
-  <path fill="#1f3a5f" d="M10 2h10v2h-10zM8 4h2v6h-2zM20 4h2v16h-2zM6 10h2v2h-2zM10 10h2v2h-2zM4 12h2v2h-2zM12 12h2v2h-2zM2 14h2v6h-2zM14 14h2v6h-2zM4 20h16v2h-16z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" shape-rendering="crispEdges" viewBox="0 0 24 24"><path fill="#7aa6ff" d="M10 4h10v16H10z"/><path fill="#bcd3ff" d="M10 4h10v1H10z"/><path fill="#4f7fe0" d="M18 5h2v15h-2z"/><path fill="#fffaf0" d="M8 10h2v2H8zm-2 2h6v2H6zm-2 2h10v6H4z"/><path fill="#e6dcc8" d="M4 19h10v1H4z"/><path fill="#fcd34d" d="M12 6h2v2h-2zm4 0h2v2h-2zm0 4h2v2h-2z"/><path fill="#f59e0b" d="M12 7h2v1h-2zm4 0h2v1h-2zm0 4h2v1h-2z"/><path fill="#b45309" d="M8 16h2v4H8z"/><path fill="#fcd34d" d="M9 18h1v1H9z"/><path fill="#27364b" d="M10 2h10v2H10zM8 4h2v6H8zm12 0h2v16h-2zM6 10h2v2H6zm4 0h2v2h-2zm-6 2h2v2H4zm8 0h2v2h-2zM2 14h2v6H2zm12 0h2v6h-2zM4 20h16v2H4z"/></svg>

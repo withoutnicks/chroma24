@@ -1,18 +1,2 @@
 <!-- Colored derivative of pixelarticons/calendar-2.svg (v2.4.2, MIT (c) Gerrit Halfmann) -->
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" shape-rendering="crispEdges">
-  <!-- interior -->
-  <rect x="5" y="6" width="14" height="2" fill="#7aa6ff"/>
-  <rect x="5" y="10" width="14" height="10" fill="#fffaf0"/>
-  <!-- cabecera -->
-  <path fill="#7aa6ff" d="M5 4h14v2H5zM3 6h2v2H3zm16 0h2v2h-2zM3 8h18v2H3z"/>
-  <!-- marco -->
-  <path fill="#1f3a5f" d="M3 10h2v10H3zm16 0h2v10h-2zM5 20h14v2H5z"/>
-  <!-- anillas -->
-  <path fill="#334155" d="M7 2h2v2H7zm8 0h2v2h-2z"/>
-  <!-- días -->
-  <path fill="#2e9e6b" d="M7 12h2v2H7z"/>
-  <path fill="#f59e0b" d="M11 12h2v2h-2z"/>
-  <path fill="#ec4899" d="M15 12h2v2h-2z"/>
-  <path fill="#3b82f6" d="M7 16h2v2H7z"/>
-  <path fill="#8b5cf6" d="M11 16h2v2h-2z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" shape-rendering="crispEdges" viewBox="0 0 24 24"><path fill="#7aa6ff" d="M5 6h14v2H5z"/><path fill="#fffaf0" d="M5 10h14v10H5z"/><path fill="#7aa6ff" d="M5 4h14v2H5zM3 6h2v2H3zm16 0h2v2h-2zM3 8h18v2H3z"/><path fill="#27364b" d="M3 10h2v10H3zm16 0h2v10h-2zM5 20h14v2H5z"/><path fill="#334155" d="M7 2h2v2H7zm8 0h2v2h-2z"/><path fill="#2e9e6b" d="M7 12h2v2H7z"/><path fill="#f59e0b" d="M11 12h2v2h-2z"/><path fill="#ec4899" d="M15 12h2v2h-2z"/><path fill="#3b82f6" d="M7 16h2v2H7z"/><path fill="#8b5cf6" d="M11 16h2v2h-2z"/></svg>

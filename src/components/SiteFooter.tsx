@@ -17,7 +17,7 @@ export function SiteFooter() {
           title="Gerardo Caycho"
           rel="noreferrer"
           target="_blank"
-          className="group flex items-center space-x-2 transition-colors hover:text-black dark:hover:text-white"
+          className="group flex items-center space-x-2 transition-colors hover:text-retro-text"
         >
           <span className="hidden md:block font-mono leading-relaxed text-retro-muted text-sm">
             by

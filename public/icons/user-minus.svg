@@ -1,9 +1,2 @@
 <!-- Colored derivative of pixelarticons/user-minus.svg (v2.4.2, MIT (c) Gerrit Halfmann) -->
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" shape-rendering="crispEdges">
-  <path fill="#ffe0b2" d="M9 4h6v6H9z"/>
-  <path fill="#5b371f" d="M9 2h6v2H9zM7 4h2v6H7zM15 4h2v6h-2zM9 10h6v2H9z"/>
-  <path fill="#7aa6ff" d="M8 16h8v2H8zM6 18h12v4H6z"/>
-  <path fill="#1f3a5f" d="M8 14h8v2H8zM6 16h2v2H6zM16 16h2v2h-2zM4 18h2v4H4zM18 18h2v4h-2zM6 22h12v2H6z"/>
-  <path fill="#1f3a5f" d="M16 17h8v6h-8z"/>
-  <path fill="#7aa6ff" d="M16 19h8v2h-8z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" shape-rendering="crispEdges" viewBox="0 0 24 24"><path fill="#ffe0b2" d="M9 4h6v6H9z"/><path fill="#5b371f" d="M9 2h6v2H9zM7 4h2v6H7zm8 0h2v6h-2zm-6 6h6v2H9z"/><path fill="#7aa6ff" d="M8 16h8v2H8zm-2 2h12v4H6z"/><path fill="#27364b" d="M8 14h8v2H8zm-2 2h2v2H6zm10 0h2v2h-2zM4 18h2v4H4zm14 0h2v4h-2zM6 22h12v2H6z"/><path fill="#ef4444" d="M16 19h8v2h-8z"/></svg>

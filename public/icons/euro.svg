@@ -1,5 +1,2 @@
 <!-- Colored derivative of pixelarticons/euro.svg (v2.4.2, MIT (c) Gerrit Halfmann) -->
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" shape-rendering="crispEdges">
-  <path fill="#ffffff" d="M9 4h10v1h-10zM9 5h10v1h-10zM7 6h2v1h-2zM7 7h2v1h-2zM7 8h2v1h-2zM5 9h11v1h-11zM5 10h11v1h-11zM7 11h2v1h-2zM7 12h2v1h-2zM5 13h11v1h-11zM5 14h11v1h-11zM7 15h2v1h-2zM7 16h2v1h-2zM7 17h2v1h-2zM9 18h10v1h-10zM9 19h10v1h-10z"/>
-  <path fill="#3ddc84" d="M7 9h2v1h-2zM7 10h2v1h-2zM7 13h2v1h-2zM7 14h2v1h-2z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" shape-rendering="crispEdges" viewBox="0 0 24 24"><path fill="#27364b" d="M9 4h10v1H9zm0 1h10v1H9zM7 6h2v1H7zm0 1h2v1H7zm0 1h2v1H7zM5 9h11v1H5zm0 1h11v1H5zm2 1h2v1H7zm0 1h2v1H7zm-2 1h11v1H5zm0 1h11v1H5zm2 1h2v1H7zm0 1h2v1H7zm0 1h2v1H7zm2 1h10v1H9zm0 1h10v1H9z"/><path fill="#3ddc84" d="M7 9h2v1H7zm0 1h2v1H7zm0 3h2v1H7zm0 1h2v1H7z"/></svg>

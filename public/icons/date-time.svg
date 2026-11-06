@@ -1,10 +1,2 @@
 <!-- Colored derivative of pixelarticons/date-time.svg (v2.4.2, MIT (c) Gerrit Halfmann) -->
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" shape-rendering="crispEdges">
-  <path fill="#334155" d="M5 1h2v2h-2zM13 1h2v2h-2z"/>
-  <path fill="#1f3a5f" d="M3 3h14v2h-14zM1 5h2v2h-2zM17 5h2v2h-2zM1 7h18v2h-18zM1 9h2v10h-2zM17 9h2v2h-2zM13 11h8v2h-8zM11 13h2v8h-2zM21 13h2v8h-2zM16 14h2v3h-2zM16 17h4v2h-4zM3 19h6v2h-6zM13 21h8v2h-8z"/>
-  <path fill="#bcd3ff" d="M3 5h14v1h-14z"/>
-  <path fill="#7aa6ff" d="M3 6h14v1h-14z"/>
-  <path fill="#fffaf0" d="M3 9h14v2h-14zM3 11h10v2h-10zM3 13h8v6h-8z"/>
-  <path fill="#c7ebff" d="M13 13h8v1h-8z"/>
-  <path fill="#8fd3ff" d="M13 14h3v5h-3zM18 14h3v3h-3zM20 17h1v2h-1zM13 19h8v2h-8z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" shape-rendering="crispEdges" viewBox="0 0 24 24"><path fill="#334155" d="M5 1h2v2H5zm8 0h2v2h-2z"/><path fill="#27364b" d="M3 3h14v2H3zM1 5h2v2H1zm16 0h2v2h-2zM1 7h18v2H1zm0 2h2v10H1zm16 0h2v2h-2zm-4 2h8v2h-8zm-2 2h2v8h-2zm10 0h2v8h-2zm-5 1h2v3h-2zm0 3h4v2h-4zM3 19h6v2H3zm10 2h8v2h-8z"/><path fill="#bcd3ff" d="M3 5h14v1H3z"/><path fill="#7aa6ff" d="M3 6h14v1H3z"/><path fill="#fffaf0" d="M3 9h14v2H3zm0 2h10v2H3zm0 2h8v6H3z"/><path fill="#c7ebff" d="M13 13h8v1h-8z"/><path fill="#8fd3ff" d="M13 14h3v5h-3zm5 0h3v3h-3zm2 3h1v2h-1zm-7 2h8v2h-8z"/></svg>

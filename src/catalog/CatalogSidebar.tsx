@@ -53,7 +53,7 @@ export function CatalogSidebar({
           onChange={(event) => onQueryChange(event.target.value)}
           onClear={() => onQueryChange("")}
           clearable
-          icon={<PxlKitIcon icon={Search} size={16} appearance="solid" decorative />}
+          icon={<PxlKitIcon icon={Search} size={16} appearance="tinted" decorative />}
           suffix={<PixelKbd>/</PixelKbd>}
           autoComplete="off"
           spellCheck={false}

@@ -1,10 +1,2 @@
 <!-- Colored derivative of pixelarticons/book-open.svg (v2.4.2, MIT (c) Gerrit Halfmann) -->
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" shape-rendering="crispEdges">
-  <path fill="#713f12" d="M2 3h9v2h-9zM13 3h9v2h-9zM0 5h2v14h-2zM11 5h2v14h-2zM22 5h2v14h-2zM0 19h24v2h-24z"/>
-  <path fill="#fff3c4" d="M2 5h9v14h-9zM13 5h9v14h-9z"/>
-  <path fill="#f1d98a" d="M10 5h1v13h-1zM13 5h1v13h-1z"/>
-  <path fill="#e6c878" d="M2 18h9v1h-9zM13 18h9v1h-9z"/>
-  <path fill="#ffffff" d="M3 5h7v1h-7zM14 5h7v1h-7z"/>
-  <path fill="#b8873b" d="M4 7h5v2h-5zM4 11h5v2h-5zM7 15h2v2h-2zM15 7h5v2h-5zM15 11h5v2h-5zM15 15h2v2h-2z"/>
-  <path fill="#dc2626" d="M11 21h2v2h-2z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" shape-rendering="crispEdges" viewBox="0 0 24 24"><path fill="#713f12" d="M2 3h9v2H2zm11 0h9v2h-9zM0 5h2v14H0zm11 0h2v14h-2zm11 0h2v14h-2zM0 19h24v2H0z"/><path fill="#fff3c4" d="M2 5h9v14H2zm11 0h9v14h-9z"/><path fill="#f1d98a" d="M10 5h1v13h-1zm3 0h1v13h-1z"/><path fill="#e6c878" d="M2 18h9v1H2zm11 0h9v1h-9z"/><path fill="#fff" d="M3 5h7v1H3zm11 0h7v1h-7z"/><path fill="#b8873b" d="M4 7h5v2H4zm0 4h5v2H4zm3 4h2v2H7zm8-8h5v2h-5zm0 4h5v2h-5zm0 4h2v2h-2z"/><path fill="#dc2626" d="M11 21h2v2h-2z"/></svg>

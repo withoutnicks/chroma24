@@ -1,6 +1,0 @@
-<!-- Colored derivative of pixelarticons/cross-glyph.svg (v2.4.2, MIT (c) Gerrit Halfmann) -->
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" shape-rendering="crispEdges">
-  <path fill="#f87171" d="M8 2h7v1h-7zM8 3h1v5h-1zM2 8h6v1h-6zM16 8h5v1h-5zM2 9h1v6h-1zM8 16h1v5h-1z"/>
-  <path fill="#ef4444" d="M15 2h1v1h-1zM9 3h6v5h-6zM8 8h8v1h-8zM21 8h1v1h-1zM3 9h18v6h-18zM2 15h1v1h-1zM8 15h8v1h-8zM9 16h6v5h-6zM8 21h1v1h-1z"/>
-  <path fill="#dc2626" d="M15 3h1v5h-1zM21 9h1v6h-1zM3 15h5v1h-5zM16 15h6v1h-6zM15 16h1v5h-1zM9 21h7v1h-7z"/>
-</svg>

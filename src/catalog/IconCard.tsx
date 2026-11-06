@@ -33,10 +33,10 @@ export function IconCard({ icon, size }: IconCardProps) {
           />
         </div>
         <div className="flex w-full items-center justify-between gap-2 border-t border-retro-border/50 pt-3">
-          <span className="min-w-0 truncate font-mono text-[10px] text-retro-text">
+          <span className="min-w-0 truncate font-mono text-[11px] text-retro-text">
             {icon.name}
           </span>
-          <span className="shrink-0 font-mono text-[9px] text-retro-muted" aria-hidden="true">
+          <span className="shrink-0 font-mono text-[11px] text-retro-muted" aria-hidden="true">
             {copied ? "Copied" : "Copy"}
           </span>
         </div>

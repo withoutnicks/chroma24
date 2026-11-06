@@ -1,9 +1,2 @@
 <!-- Colored derivative of pixelarticons/android.svg (v2.4.2, MIT (c) Gerrit Halfmann) -->
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" shape-rendering="crispEdges">
-  <!-- relleno -->
-  <path fill="#3ddc84" d="M8 8h8v2H8zM6 10h12v2H6zM4 12h16v6H4z"/>
-  <!-- contorno -->
-  <path fill="#0b6b3a" d="M2 4h2v2H2zM20 4h2v2h-2zM4 6h2v2H4zM18 6h2v2h-2zM8 6h8v2H8zM6 8h2v2H6zM16 8h2v2h-2zM4 10h2v2H4zM18 10h2v2h-2zM2 12h2v6H2zM20 12h2v6h-2zM2 18h20v2H2z"/>
-  <!-- ojos -->
-  <path fill="#073042" d="M8 12h2v4H8zM14 12h2v4h-2z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" shape-rendering="crispEdges" viewBox="0 0 24 24"><path fill="#3ddc84" d="M8 8h8v2H8zm-2 2h12v2H6zm-2 2h16v6H4z"/><path fill="#0b6b3a" d="M2 4h2v2H2zm18 0h2v2h-2zM4 6h2v2H4zm14 0h2v2h-2zM8 6h8v2H8zM6 8h2v2H6zm10 0h2v2h-2zM4 10h2v2H4zm14 0h2v2h-2zM2 12h2v6H2zm18 0h2v6h-2zM2 18h20v2H2z"/><path fill="#073042" d="M8 12h2v4H8zm6 0h2v4h-2z"/></svg>

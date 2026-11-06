@@ -1,5 +1,2 @@
 <!-- Colored derivative of pixelarticons/download.svg (v2.4.2, MIT (c) Gerrit Halfmann) -->
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" shape-rendering="crispEdges">
-  <path fill="#ffffff" d="M11 3h2v1h-2zM11 4h2v1h-2zM11 5h2v1h-2zM11 6h2v1h-2zM11 7h2v1h-2zM11 8h2v1h-2zM11 9h2v1h-2zM11 10h2v1h-2zM7 11h10v1h-10zM7 12h10v1h-10zM9 13h6v1h-6zM9 14h6v1h-6zM3 15h2v1h-2zM11 15h2v1h-2zM19 15h2v1h-2zM3 16h2v1h-2zM11 16h2v1h-2zM19 16h2v1h-2zM3 17h2v1h-2zM19 17h2v1h-2zM3 18h2v1h-2zM19 18h2v1h-2zM5 19h14v1h-14zM5 20h14v1h-14z"/>
-  <path fill="#7aa6ff" d="M11 11h2v1h-2zM9 12h6v1h-6zM10 13h4v1h-4zM11 14h2v1h-2z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" shape-rendering="crispEdges" viewBox="0 0 24 24"><path fill="#27364b" d="M11 3h2v1h-2zm0 1h2v1h-2zm0 1h2v1h-2zm0 1h2v1h-2zm0 1h2v1h-2zm0 1h2v1h-2zm0 1h2v1h-2zm0 1h2v1h-2zm-4 1h10v1H7zm0 1h10v1H7zm2 1h6v1H9zm0 1h6v1H9zm-6 1h2v1H3zm8 0h2v1h-2zm8 0h2v1h-2zM3 16h2v1H3zm8 0h2v1h-2zm8 0h2v1h-2zM3 17h2v1H3zm16 0h2v1h-2zM3 18h2v1H3zm16 0h2v1h-2zM5 19h14v1H5zm0 1h14v1H5z"/><path fill="#7aa6ff" d="M11 11h2v1h-2zm-2 1h6v1H9zm1 1h4v1h-4zm1 1h2v1h-2z"/></svg>

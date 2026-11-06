@@ -1,10 +1,2 @@
 <!-- Colored derivative of pixelarticons/cigarette-off.svg (v2.4.2, MIT (c) Gerrit Halfmann) -->
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" shape-rendering="crispEdges">
-  <path fill="#c9d3e0" d="M12 3h2v3h-2zM14 6h2v3h-2zM17 3h2v3h-2zM19 6h2v3h-2z"/>
-  <path fill="#fffaf0" d="M9 11h11v6H9z"/>
-  <path fill="#e6dcc8" d="M9 15h11v2H9z"/>
-  <path fill="#f59e0b" d="M3 11h6v4H3z"/>
-  <path fill="#d97706" d="M3 15h6v2H3z"/>
-  <path fill="#fb923c" d="M20 12h2v4h-2z"/>
-  <path fill="#ef4444" d="M3 3h2v2H3zM5 5h2v2H5zM7 7h2v2H7zM9 9h2v2H9zM11 11h2v2h-2zM13 13h2v2h-2zM15 15h2v2h-2zM17 17h2v2h-2zM19 19h2v2h-2z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" shape-rendering="crispEdges" viewBox="0 0 24 24"><path fill="#c9d3e0" d="M12 3h2v3h-2zm2 3h2v3h-2zm3-3h2v3h-2zm2 3h2v3h-2z"/><path fill="#fffaf0" d="M9 11h11v6H9z"/><path fill="#e6dcc8" d="M9 15h11v2H9z"/><path fill="#f59e0b" d="M3 11h6v4H3z"/><path fill="#d97706" d="M3 15h6v2H3z"/><path fill="#fb923c" d="M20 12h2v4h-2z"/><path fill="#ef4444" d="M3 3h2v2H3zm2 2h2v2H5zm2 2h2v2H7zm2 2h2v2H9zm2 2h2v2h-2zm2 2h2v2h-2zm2 2h2v2h-2zm2 2h2v2h-2zm2 2h2v2h-2z"/></svg>

@@ -1,5 +1,2 @@
 <!-- Colored derivative of pixelarticons/rubel.svg (v2.4.2, MIT (c) Gerrit Halfmann) -->
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" shape-rendering="crispEdges">
-  <path fill="#ffffff" d="M7 4h10v1h-10zM7 5h10v1h-10zM7 6h2v1h-2zM17 6h2v1h-2zM7 7h2v1h-2zM17 7h2v1h-2zM7 8h2v1h-2zM17 8h2v1h-2zM7 9h2v1h-2zM17 9h2v1h-2zM7 10h2v1h-2zM17 10h2v1h-2zM5 11h12v1h-12zM5 12h12v1h-12zM7 13h2v1h-2zM7 14h2v1h-2zM5 15h10v1h-10zM5 16h10v1h-10zM7 17h2v1h-2zM7 18h2v1h-2zM7 19h2v1h-2z"/>
-  <path fill="#3ddc84" d="M8 5h8v1h-8zM8 6h1v1h-1zM8 7h1v1h-1zM17 7h1v1h-1zM8 8h1v1h-1zM17 8h1v1h-1zM8 9h1v1h-1zM17 9h1v1h-1zM8 10h1v1h-1zM7 11h9v1h-9zM7 12h2v1h-2zM7 15h2v1h-2zM7 16h2v1h-2z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" shape-rendering="crispEdges" viewBox="0 0 24 24"><path fill="#27364b" d="M7 4h10v1H7zm0 1h10v1H7zm0 1h2v1H7zm10 0h2v1h-2zM7 7h2v1H7zm10 0h2v1h-2zM7 8h2v1H7zm10 0h2v1h-2zM7 9h2v1H7zm10 0h2v1h-2zM7 10h2v1H7zm10 0h2v1h-2zM5 11h12v1H5zm0 1h12v1H5zm2 1h2v1H7zm0 1h2v1H7zm-2 1h10v1H5zm0 1h10v1H5zm2 1h2v1H7zm0 1h2v1H7zm0 1h2v1H7z"/><path fill="#27364b" d="M8 5h8v1H8zm0 1h1v1H8zm0 1h1v1H8zm9 0h1v1h-1zM8 8h1v1H8zm9 0h1v1h-1zM8 9h1v1H8zm9 0h1v1h-1zm-9 1h1v1H8zm-1 1h9v1H7zm0 1h2v1H7zm0 3h2v1H7zm0 1h2v1H7z"/></svg>

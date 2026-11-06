@@ -1,8 +1,2 @@
 <!-- Colored derivative of pixelarticons/trophy.svg (v2.4.2, MIT (c) Gerrit Halfmann) -->
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" shape-rendering="crispEdges">
-  <path fill="#facc15" d="M8 5h8v1h-8zM8 6h8v1h-8zM8 7h8v1h-8zM8 8h8v1h-8zM8 9h8v1h-8zM8 10h8v1h-8zM8 11h8v1h-8zM8 12h8v1h-8zM8 13h8v1h-8zM8 14h8v1h-8z"/>
-  <path fill="#f59e0b" d="M4 7h2v1h-2zM4 8h2v1h-2zM4 9h2v1h-2zM4 10h2v1h-2z"/>
-  <path fill="#f59e0b" d="M18 7h2v1h-2zM18 8h2v1h-2zM18 9h2v1h-2zM18 10h2v1h-2z"/>
-  <path fill="#713f12" d="M6 3h12v1h-12zM6 4h12v1h-12zM2 5h6v1h-6zM16 5h6v1h-6zM2 6h6v1h-6zM16 6h6v1h-6zM2 7h2v1h-2zM6 7h2v1h-2zM16 7h2v1h-2zM20 7h2v1h-2zM2 8h2v1h-2zM6 8h2v1h-2zM16 8h2v1h-2zM20 8h2v1h-2zM2 9h2v1h-2zM6 9h2v1h-2zM16 9h2v1h-2zM20 9h2v1h-2zM2 10h2v1h-2zM6 10h2v1h-2zM16 10h2v1h-2zM20 10h2v1h-2zM4 11h4v1h-4zM16 11h4v1h-4zM4 12h4v1h-4zM16 12h4v1h-4zM6 13h2v1h-2zM16 13h2v1h-2zM6 14h2v1h-2zM16 14h2v1h-2zM8 15h8v1h-8zM8 16h8v1h-8zM11 17h2v1h-2zM11 18h2v1h-2zM9 19h6v1h-6zM9 20h6v1h-6z"/>
-  <path fill="#fff3a3" d="M9 5h2v6H9z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" shape-rendering="crispEdges" viewBox="0 0 24 24"><path fill="#facc15" d="M8 5h8v1H8zm0 1h8v1H8zm0 1h8v1H8zm0 1h8v1H8zm0 1h8v1H8zm0 1h8v1H8zm0 1h8v1H8zm0 1h8v1H8zm0 1h8v1H8zm0 1h8v1H8z"/><path fill="#f59e0b" d="M4 7h2v1H4zm0 1h2v1H4zm0 1h2v1H4zm0 1h2v1H4zm14-3h2v1h-2zm0 1h2v1h-2zm0 1h2v1h-2zm0 1h2v1h-2z"/><path fill="#713f12" d="M6 3h12v1H6zm0 1h12v1H6zM2 5h6v1H2zm14 0h6v1h-6zM2 6h6v1H2zm14 0h6v1h-6zM2 7h2v1H2zm4 0h2v1H6zm10 0h2v1h-2zm4 0h2v1h-2zM2 8h2v1H2zm4 0h2v1H6zm10 0h2v1h-2zm4 0h2v1h-2zM2 9h2v1H2zm4 0h2v1H6zm10 0h2v1h-2zm4 0h2v1h-2zM2 10h2v1H2zm4 0h2v1H6zm10 0h2v1h-2zm4 0h2v1h-2zM4 11h4v1H4zm12 0h4v1h-4zM4 12h4v1H4zm12 0h4v1h-4zM6 13h2v1H6zm10 0h2v1h-2zM6 14h2v1H6zm10 0h2v1h-2zm-8 1h8v1H8zm0 1h8v1H8zm3 1h2v1h-2zm0 1h2v1h-2zm-2 1h6v1H9zm0 1h6v1H9z"/><path fill="#fff3a3" d="M9 5h2v6H9z"/></svg>

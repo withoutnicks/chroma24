@@ -1,13 +1,2 @@
 <!-- Colored derivative of pixelarticons/wallet.svg (v2.4.2, MIT (c) Gerrit Halfmann) -->
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" shape-rendering="crispEdges">
-  <!-- interior -->
-  <rect x="4" y="5" width="14" height="2" fill="#c98b4f"/>
-  <rect x="4" y="9" width="16" height="10" fill="#d9a566"/>
-  <!-- solapa -->
-  <path fill="#8a4b1f" d="M4 3h14v2H4zM2 5h2v2H2zm16 0h2v2h-2zM2 7h20v2H2z"/>
-  <!-- cuerpo -->
-  <path fill="#5a3216" d="M2 9h2v10H2zm18 0h2v10h-2zM4 19h16v2H4z"/>
-  <!-- cierre dorado -->
-  <path fill="#d4a017" d="M14 11h6v2h-6zm0 2h2v2h-2zm0 2h6v2h-6z"/>
-  <rect x="16" y="13" width="4" height="2" fill="#f3d37a"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" shape-rendering="crispEdges" viewBox="0 0 24 24"><path fill="#c98b4f" d="M4 5h14v2H4z"/><path fill="#d9a566" d="M4 9h16v10H4z"/><path fill="#8a4b1f" d="M4 3h14v2H4zM2 5h2v2H2zm16 0h2v2h-2zM2 7h20v2H2z"/><path fill="#5a3216" d="M2 9h2v10H2zm18 0h2v10h-2zM4 19h16v2H4z"/><path fill="#d4a017" d="M14 11h6v2h-6zm0 2h2v2h-2zm0 2h6v2h-6z"/><path fill="#f3d37a" d="M16 13h4v2h-4z"/></svg>

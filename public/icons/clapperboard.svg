@@ -1,9 +1,2 @@
 <!-- Colored derivative of pixelarticons/clapperboard.svg (v2.4.2, MIT (c) Gerrit Halfmann) -->
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" shape-rendering="crispEdges">
-  <path fill="#c9d3e0" d="M4 11h16v1h-16zM4 12h16v1h-16zM4 13h16v1h-16zM4 14h16v1h-16zM4 15h16v1h-16zM4 16h16v1h-16zM4 17h16v1h-16zM4 18h16v1h-16z"/>
-  <path fill="#7aa6ff" d="M8 5h6v1h-6zM8 6h6v1h-6zM10 7h6v1h-6zM10 8h6v1h-6z"/>
-  <path fill="#f3e8c8" d="M4 5h2v1h-2zM4 6h2v1h-2zM4 7h4v1h-4zM4 8h4v1h-4z"/>
-  <path fill="#f3e8c8" d="M16 5h4v1h-4zM16 6h4v1h-4zM18 7h2v1h-2zM18 8h2v1h-2z"/>
-  <path fill="#1f2937" d="M4 3h16v1h-16zM4 4h16v1h-16zM2 5h2v1h-2zM6 5h2v1h-2zM14 5h2v1h-2zM20 5h2v1h-2zM2 6h2v1h-2zM6 6h2v1h-2zM14 6h2v1h-2zM20 6h2v1h-2zM2 7h2v1h-2zM8 7h2v1h-2zM16 7h2v1h-2zM20 7h2v1h-2zM2 8h2v1h-2zM8 8h2v1h-2zM16 8h2v1h-2zM20 8h2v1h-2zM2 9h20v1h-20zM2 10h20v1h-20zM2 11h2v1h-2zM20 11h2v1h-2zM2 12h2v1h-2zM20 12h2v1h-2zM2 13h2v1h-2zM20 13h2v1h-2zM2 14h2v1h-2zM20 14h2v1h-2zM2 15h2v1h-2zM20 15h2v1h-2zM2 16h2v1h-2zM20 16h2v1h-2zM2 17h2v1h-2zM20 17h2v1h-2zM2 18h2v1h-2zM20 18h2v1h-2zM4 19h16v1h-16zM4 20h16v1h-16z"/>
-  <path fill="#f3e8c8" d="M6 7h4v2H6zM14 7h4v2h-4z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" shape-rendering="crispEdges" viewBox="0 0 24 24"><path fill="#c9d3e0" d="M4 11h16v1H4zm0 1h16v1H4zm0 1h16v1H4zm0 1h16v1H4zm0 1h16v1H4zm0 1h16v1H4zm0 1h16v1H4zm0 1h16v1H4z"/><path fill="#7aa6ff" d="M8 5h6v1H8zm0 1h6v1H8zm2 1h6v1h-6zm0 1h6v1h-6z"/><path fill="#f3e8c8" d="M4 5h2v1H4zm0 1h2v1H4zm0 1h4v1H4zm0 1h4v1H4zm12-3h4v1h-4zm0 1h4v1h-4zm2 1h2v1h-2zm0 1h2v1h-2z"/><path fill="#1f2937" d="M4 3h16v1H4zm0 1h16v1H4zM2 5h2v1H2zm4 0h2v1H6zm8 0h2v1h-2zm6 0h2v1h-2zM2 6h2v1H2zm4 0h2v1H6zm8 0h2v1h-2zm6 0h2v1h-2zM2 7h2v1H2zm6 0h2v1H8zm8 0h2v1h-2zm4 0h2v1h-2zM2 8h2v1H2zm6 0h2v1H8zm8 0h2v1h-2zm4 0h2v1h-2zM2 9h20v1H2zm0 1h20v1H2zm0 1h2v1H2zm18 0h2v1h-2zM2 12h2v1H2zm18 0h2v1h-2zM2 13h2v1H2zm18 0h2v1h-2zM2 14h2v1H2zm18 0h2v1h-2zM2 15h2v1H2zm18 0h2v1h-2zM2 16h2v1H2zm18 0h2v1h-2zM2 17h2v1H2zm18 0h2v1h-2zM2 18h2v1H2zm18 0h2v1h-2zM4 19h16v1H4zm0 1h16v1H4z"/><path fill="#f3e8c8" d="M6 7h4v2H6zm8 0h4v2h-4z"/></svg>

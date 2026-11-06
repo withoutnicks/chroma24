@@ -1,14 +1,2 @@
 <!-- Colored derivative of pixelarticons/calendar-range.svg (v2.4.2, MIT (c) Gerrit Halfmann) -->
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" shape-rendering="crispEdges">
-  <!-- cuerpo -->
-  <path fill="#fffaf0" d="M5 10h14v10H5z"/>
-  <!-- cabecera -->
-  <path fill="#7aa6ff" d="M5 4h14v2H5zM3 6h18v4H3z"/>
-  <!-- marco -->
-  <path fill="#1f3a5f" d="M3 10h2v10H3zM19 10h2v10h-2zM5 20h14v2H5z"/>
-  <!-- anillas -->
-  <path fill="#334155" d="M7 2h2v2H7zM15 2h2v2h-2z"/>
-  <!-- rango -->
-  <path fill="#fcd34d" d="M11 12h6v2h-6zM7 16h6v2H7z"/>
-  <path fill="#f59e0b" d="M11 12h2v2h-2zM11 16h2v2h-2z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" shape-rendering="crispEdges" viewBox="0 0 24 24"><path fill="#fffaf0" d="M5 10h14v10H5z"/><path fill="#7aa6ff" d="M5 4h14v2H5zM3 6h18v4H3z"/><path fill="#27364b" d="M3 10h2v10H3zm16 0h2v10h-2zM5 20h14v2H5z"/><path fill="#334155" d="M7 2h2v2H7zm8 0h2v2h-2z"/><path fill="#fcaa4d" d="M11 12h6v2h-6zm-4 4h6v2H7z"/><path fill="#f59e0b" d="M11 12h2v2h-2zm0 4h2v2h-2z"/></svg>

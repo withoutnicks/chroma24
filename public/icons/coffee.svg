@@ -1,7 +1,2 @@
 <!-- Colored derivative of pixelarticons/coffee.svg (v2.4.2, MIT (c) Gerrit Halfmann) -->
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" shape-rendering="crispEdges">
-  <path fill="#fffaf0" d="M6 6h10v1h-10zM6 7h10v1h-10zM6 8h10v1h-10zM6 9h10v1h-10zM6 10h10v1h-10zM6 11h10v1h-10zM6 12h10v1h-10zM6 13h10v1h-10z"/>
-  <path fill="#fffaf0" d="M18 6h2v1h-2zM18 7h2v1h-2zM18 8h2v1h-2zM18 9h2v1h-2z"/>
-  <path fill="#5b371f" d="M4 4h16v1h-16zM4 5h16v1h-16zM4 6h2v1h-2zM16 6h2v1h-2zM20 6h2v1h-2zM4 7h2v1h-2zM16 7h2v1h-2zM20 7h2v1h-2zM4 8h2v1h-2zM16 8h2v1h-2zM20 8h2v1h-2zM4 9h2v1h-2zM16 9h2v1h-2zM20 9h2v1h-2zM4 10h2v1h-2zM16 10h4v1h-4zM4 11h2v1h-2zM16 11h4v1h-4zM4 12h2v1h-2zM16 12h2v1h-2zM4 13h2v1h-2zM16 13h2v1h-2zM6 14h10v1h-10zM6 15h10v1h-10zM2 18h18v1h-18zM2 19h18v1h-18z"/>
-  <path fill="#8b5e3c" d="M6 6h10v2H6z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" shape-rendering="crispEdges" viewBox="0 0 24 24"><path fill="#fffaf0" d="M6 6h10v1H6zm0 1h10v1H6zm0 1h10v1H6zm0 1h10v1H6zm0 1h10v1H6zm0 1h10v1H6zm0 1h10v1H6zm0 1h10v1H6zm12-7h2v1h-2zm0 1h2v1h-2zm0 1h2v1h-2zm0 1h2v1h-2z"/><path fill="#27364b" d="M4 4h16v1H4zm0 1h16v1H4zm0 1h2v1H4zm12 0h2v1h-2zm4 0h2v1h-2zM4 7h2v1H4zm12 0h2v1h-2zm4 0h2v1h-2zM4 8h2v1H4zm12 0h2v1h-2zm4 0h2v1h-2zM4 9h2v1H4zm12 0h2v1h-2zm4 0h2v1h-2zM4 10h2v1H4zm12 0h4v1h-4zM4 11h2v1H4zm12 0h4v1h-4zM4 12h2v1H4zm12 0h2v1h-2zM4 13h2v1H4zm12 0h2v1h-2zM6 14h10v1H6zm0 1h10v1H6zm-4 3h18v1H2zm0 1h18v1H2z"/><path fill="#8b5e3c" d="M6 6h10v2H6z"/></svg>
